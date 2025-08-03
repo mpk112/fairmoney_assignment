@@ -1,0 +1,1001 @@
+Unnamed: 0,checking_balance,months_loan_duration,credit_history,amount,savings_balance,installment_rate,personal_status,other_debtors,property,age,installment_plan,housing,existing_credits,default,dependents,foreign_worker,job,gender,residence_history_months,employment_length_months,telephone_flag,purpose_grouped,employment_stable,employment_risk,residence_stable,residence_risk,stability_score
+0,-43.0,6,critical,1169,0.0,4,single,none,real estate,67,none,own,2,0,1,yes,skilled employee,male,60,120,1,radio/tv,1,0,1,0,96.0
+1,75.0,48,repaid,5951,89.0,2,single,none,real estate,22,none,own,1,1,1,yes,skilled employee,female,6,30,0,radio/tv,1,0,0,0,20.4
+2,0.0,12,critical,2096,24.0,2,single,none,real estate,49,none,own,1,0,2,yes,unskilled resident,male,60,66,0,education,1,0,1,0,63.6
+3,-32.0,42,repaid,7882,9.0,2,single,guarantor,building society savings,45,none,for free,1,0,2,yes,skilled employee,male,96,66,0,furniture,1,0,1,0,78.0
+4,-23.0,24,delayed,4870,43.0,3,single,none,other,53,none,for free,2,1,2,yes,skilled employee,male,96,30,0,car (new),1,0,1,0,56.400000000000006
+5,0.0,36,repaid,9055,0.0,2,single,none,other,35,none,for free,1,0,2,yes,unskilled resident,male,96,30,1,education,1,0,1,0,56.400000000000006
+6,0.0,24,repaid,2835,761.0,3,single,none,building society savings,53,none,own,1,0,1,yes,skilled employee,male,96,120,0,furniture,1,0,1,0,110.4
+7,169.0,36,repaid,6948,57.0,2,single,none,other,35,none,rent,1,0,1,yes,mangement self-employed,male,6,30,1,car (used),1,0,0,0,20.4
+8,0.0,12,repaid,3059,18426.0,2,divorced,none,real estate,61,none,own,1,0,1,yes,unskilled resident,male,96,30,0,radio/tv,1,0,1,0,56.400000000000006
+9,13.0,30,critical,5234,52.0,4,married,none,other,28,none,own,2,1,1,yes,mangement self-employed,male,6,0,0,car (new),0,1,0,0,2.4000000000000004
+10,26.0,12,repaid,1295,93.0,3,single,none,other,25,none,rent,1,1,1,yes,skilled employee,female,6,6,0,car (new),0,0,0,0,6.0
+11,-31.0,48,repaid,4308,71.0,3,single,none,building society savings,24,none,rent,1,1,1,yes,skilled employee,female,96,6,0,business,0,0,1,0,42.00000000000001
+12,23.0,12,repaid,1567,48.0,1,single,none,other,22,none,own,1,0,1,yes,skilled employee,female,6,30,1,radio/tv,1,0,0,0,20.4
+13,-36.0,24,critical,1199,32.0,4,single,none,other,60,none,own,2,1,1,yes,unskilled resident,male,96,120,0,car (new),1,0,1,0,110.4
+14,-23.0,15,repaid,1403,86.0,2,single,none,other,28,none,rent,1,0,1,yes,skilled employee,female,96,30,0,car (new),1,0,1,0,56.400000000000006
+15,-6.0,24,repaid,1282,209.0,4,single,none,other,32,none,own,1,1,1,yes,unskilled resident,female,6,30,0,radio/tv,1,0,0,0,20.4
+16,0.0,24,critical,2424,0.0,4,single,none,building society savings,53,none,own,2,0,1,yes,skilled employee,male,96,120,0,radio/tv,1,0,1,0,110.4
+17,-34.0,30,fully repaid,8072,0.0,2,single,none,other,25,bank,own,3,0,1,yes,skilled employee,male,24,6,0,business,0,0,1,0,13.200000000000001
+18,83.0,24,repaid,12579,16.0,4,single,none,other,44,none,for free,1,1,1,yes,mangement self-employed,female,6,120,1,car (used),1,0,0,0,74.4
+19,0.0,24,repaid,3430,535.0,3,single,none,other,31,none,own,1,0,2,yes,skilled employee,male,6,120,1,radio/tv,1,0,0,0,74.4
+20,0.0,9,critical,2134,97.0,4,single,none,other,48,none,own,3,0,1,yes,skilled employee,male,96,30,1,car (new),1,0,1,0,56.400000000000006
+21,-8.0,6,repaid,2647,530.0,2,single,none,real estate,44,none,rent,1,0,2,yes,skilled employee,male,24,30,0,radio/tv,1,0,1,0,27.6
+22,-18.0,10,critical,2241,14.0,1,single,none,real estate,48,none,rent,2,0,2,no,unskilled resident,male,24,6,0,car (new),0,0,1,0,13.200000000000001
+23,113.0,12,critical,1804,361.0,3,single,none,building society savings,44,none,own,1,0,1,yes,skilled employee,male,96,6,0,car (used),0,0,1,0,42.00000000000001
+24,0.0,10,critical,2069,0.0,2,married,none,other,26,none,own,2,0,1,no,skilled employee,male,6,30,0,furniture,1,0,0,0,20.4
+25,-21.0,6,repaid,1374,75.0,1,single,none,real estate,36,bank,own,1,0,1,yes,unskilled resident,male,6,30,1,furniture,1,0,0,0,20.4
+26,0.0,6,fully repaid,426,67.0,4,married,none,other,39,none,own,1,0,1,yes,unskilled resident,male,96,120,0,radio/tv,1,0,1,0,110.4
+27,979.0,12,fully repaid this bank,409,7858.0,3,single,none,real estate,42,none,rent,2,0,1,yes,skilled employee,female,24,30,0,radio/tv,1,0,1,0,27.6
+28,162.0,7,repaid,2415,10.0,3,single,guarantor,real estate,34,none,own,1,0,1,yes,skilled employee,male,6,30,0,radio/tv,1,0,0,0,20.4
+29,-2.0,60,delayed,6836,73.0,3,single,none,other,63,none,own,2,1,1,yes,skilled employee,male,96,120,1,business,1,0,1,0,110.4
+30,191.0,18,repaid,1913,9343.0,3,married,none,real estate,36,bank,own,1,0,1,yes,skilled employee,male,24,6,1,business,0,0,1,0,13.200000000000001
+31,-31.0,24,repaid,4020,28.0,2,single,none,other,27,stores,own,1,0,1,yes,skilled employee,male,6,30,0,furniture,1,0,0,0,20.4
+32,116.0,18,repaid,5866,205.0,2,single,none,other,30,none,own,2,0,1,yes,skilled employee,male,6,30,1,car (new),1,0,0,0,20.4
+33,0.0,12,critical,1264,0.0,4,single,none,other,57,none,rent,1,0,1,yes,unskilled resident,male,96,120,0,business,1,0,1,0,110.4
+34,837.0,12,repaid,1474,62.0,4,single,none,building society savings,33,bank,own,1,0,1,yes,mangement self-employed,female,6,6,1,furniture,0,0,0,0,6.0
+35,59.0,45,critical,4746,63.0,4,single,none,building society savings,25,none,own,2,1,1,yes,unskilled resident,male,6,6,0,radio/tv,0,0,0,0,6.0
+36,0.0,48,critical,6110,41.0,1,single,none,other,31,bank,for free,1,0,1,yes,skilled employee,male,24,30,1,education,1,0,1,0,27.6
+37,884.0,18,repaid,2100,4.0,4,single,co-applicant,real estate,37,stores,own,1,1,1,yes,skilled employee,male,6,30,0,radio/tv,1,0,0,0,20.4
+38,646.0,10,repaid,1225,42.0,2,single,none,other,37,none,own,1,0,1,yes,skilled employee,male,6,30,1,others,1,0,0,0,20.4
+39,128.0,9,repaid,458,41.0,4,single,none,real estate,24,none,own,1,0,1,yes,skilled employee,male,24,30,0,radio/tv,1,0,1,0,27.6
+40,0.0,30,repaid,2333,957.0,4,single,none,other,30,bank,own,1,0,1,yes,mangement self-employed,male,6,120,0,radio/tv,1,0,0,0,74.4
+41,162.0,12,repaid,1158,641.0,3,divorced,none,other,26,none,own,1,0,1,yes,skilled employee,male,6,30,1,radio/tv,1,0,0,0,20.4
+42,126.0,18,delayed,6204,90.0,2,single,none,real estate,44,none,own,1,0,2,yes,unskilled resident,male,96,30,1,repairs,1,0,1,0,56.400000000000006
+43,-19.0,30,critical,6187,118.0,1,married,none,other,24,none,rent,2,0,1,yes,skilled employee,male,96,66,0,car (used),1,0,1,0,78.0
+44,-1.0,48,critical,6143,12.0,4,single,none,other,58,stores,for free,2,1,1,yes,unskilled resident,female,96,120,0,car (used),1,0,1,0,110.4
+45,0.0,11,critical,1393,75.0,4,single,none,other,35,none,own,2,0,1,yes,mangement self-employed,female,60,6,0,car (new),0,0,1,0,27.6
+46,0.0,36,repaid,2299,880.0,4,single,none,other,39,none,own,1,0,1,yes,skilled employee,male,96,120,0,radio/tv,1,0,1,0,110.4
+47,-8.0,6,repaid,1352,879.0,1,single,none,building society savings,23,none,rent,1,0,1,yes,unemployed non-resident,female,6,0,1,car (used),0,1,0,0,2.4000000000000004
+48,0.0,11,critical,7228,99.0,1,single,none,building society savings,39,none,own,2,0,1,yes,unskilled resident,male,96,30,0,car (new),1,0,1,0,56.400000000000006
+49,0.0,12,repaid,2073,308.0,4,single,co-applicant,real estate,28,none,own,1,0,1,yes,skilled employee,female,6,30,0,radio/tv,1,0,0,0,20.4
+50,14.0,24,delayed,2333,0.0,4,single,none,building society savings,29,bank,own,1,0,1,yes,unskilled resident,male,6,6,0,furniture,0,0,0,0,6.0
+51,39.0,27,delayed,5965,78.0,1,single,none,other,30,none,own,2,0,1,yes,mangement self-employed,male,6,120,1,car (used),1,0,0,0,74.4
+52,0.0,12,repaid,1262,50.0,3,single,none,other,25,none,own,1,0,1,yes,skilled employee,male,6,30,0,radio/tv,1,0,0,0,20.4
+53,0.0,18,repaid,3378,0.0,2,single,none,building society savings,31,none,own,1,0,1,yes,skilled employee,male,6,30,1,car (used),1,0,0,0,20.4
+54,73.0,36,delayed,2225,31.0,4,single,none,other,57,bank,for free,2,1,1,yes,skilled employee,male,96,120,1,car (new),1,0,1,0,110.4
+55,0.0,6,fully repaid this bank,783,0.0,1,single,guarantor,real estate,26,stores,own,1,0,2,yes,unskilled resident,male,6,30,0,car (new),1,0,0,0,20.4
+56,3.0,12,repaid,6468,0.0,2,single,none,other,52,none,own,1,1,1,yes,mangement self-employed,male,6,0,1,radio/tv,0,1,0,0,2.4000000000000004
+57,0.0,36,critical,9566,81.0,2,single,none,other,31,stores,own,2,0,1,yes,skilled employee,female,6,30,0,radio/tv,1,0,0,0,20.4
+58,873.0,18,repaid,1961,35.0,3,single,none,other,23,none,own,1,0,1,yes,mangement self-employed,female,6,120,0,car (new),1,0,0,0,74.4
+59,-50.0,36,critical,6229,30.0,4,single,co-applicant,other,23,none,rent,2,1,1,yes,unskilled resident,female,96,6,1,furniture,0,0,1,0,42.00000000000001
+60,103.0,9,repaid,1391,37.0,2,married,none,real estate,27,bank,own,1,0,1,yes,skilled employee,male,6,30,1,business,1,0,0,0,20.4
+61,184.0,15,critical,1537,0.0,4,single,guarantor,real estate,50,none,own,2,0,1,yes,skilled employee,male,96,120,1,radio/tv,1,0,1,0,110.4
+62,155.0,36,fully repaid,1953,73.0,4,single,none,other,61,none,for free,1,1,1,yes,mangement self-employed,male,60,120,1,business,1,0,1,0,96.0
+63,69.0,48,fully repaid,14421,82.0,2,single,none,other,25,none,own,1,1,1,yes,skilled employee,male,6,30,1,business,1,0,0,0,20.4
+64,0.0,24,repaid,3181,16.0,4,single,none,building society savings,26,none,own,1,0,1,yes,skilled employee,female,96,6,1,radio/tv,0,0,1,0,42.00000000000001
+65,0.0,27,repaid,5190,0.0,4,single,none,building society savings,48,none,own,4,0,2,yes,skilled employee,male,96,120,1,repairs,1,0,1,0,110.4
+66,0.0,12,repaid,2171,82.0,2,single,none,other,29,bank,own,1,0,1,yes,skilled employee,female,6,6,0,radio/tv,0,0,0,0,6.0
+67,73.0,12,repaid,1007,4865.0,4,married,none,real estate,22,none,own,1,0,1,yes,skilled employee,male,6,30,0,car (new),1,0,0,0,20.4
+68,0.0,36,repaid,1819,89.0,4,single,none,other,37,stores,for free,1,1,1,yes,skilled employee,male,96,30,1,education,1,0,1,0,56.400000000000006
+69,0.0,36,repaid,2394,0.0,4,single,none,other,25,none,own,1,0,1,yes,skilled employee,female,96,30,0,radio/tv,1,0,1,0,56.400000000000006
+70,0.0,36,repaid,8133,54.0,1,single,none,building society savings,30,bank,own,1,0,1,yes,skilled employee,female,6,30,0,car (used),1,0,0,0,20.4
+71,0.0,7,critical,730,0.0,4,single,none,building society savings,46,none,rent,2,0,1,yes,unskilled resident,male,6,120,1,radio/tv,1,0,0,0,74.4
+72,-15.0,8,critical,1164,98.0,3,single,none,other,51,bank,for free,2,0,2,yes,mangement self-employed,male,96,120,1,others,1,0,1,0,110.4
+73,176.0,42,critical,5954,13.0,2,single,none,real estate,41,bank,own,2,0,1,yes,unskilled resident,female,6,30,0,business,1,0,0,0,20.4
+74,-31.0,36,repaid,1977,0.0,4,single,none,other,40,none,own,1,1,1,yes,mangement self-employed,male,96,66,1,education,1,0,1,0,78.0
+75,-17.0,12,critical,1526,7.0,4,single,none,other,66,none,for free,2,0,1,yes,mangement self-employed,male,96,120,0,car (used),1,0,1,0,110.4
+76,-16.0,42,repaid,3965,38.0,4,single,none,other,34,none,own,1,1,1,yes,skilled employee,male,24,6,0,radio/tv,0,0,1,0,13.200000000000001
+77,42.0,11,delayed,4771,54.0,2,single,none,building society savings,51,none,own,1,0,1,yes,skilled employee,male,96,30,0,radio/tv,1,0,1,0,56.400000000000006
+78,0.0,54,fully repaid,9436,0.0,2,single,none,building society savings,39,none,own,1,0,2,yes,unskilled resident,male,6,30,0,car (used),1,0,0,0,20.4
+79,146.0,30,repaid,3832,38.0,2,married,none,building society savings,22,none,own,1,0,1,yes,skilled employee,male,6,6,0,furniture,0,0,0,0,6.0
+80,0.0,24,repaid,5943,0.0,1,single,none,other,44,none,own,2,1,1,yes,skilled employee,female,6,0,1,radio/tv,0,1,0,0,2.4000000000000004
+81,0.0,15,repaid,1213,701.0,4,single,none,building society savings,47,stores,own,1,0,1,yes,skilled employee,male,24,120,1,radio/tv,1,0,1,0,81.6
+82,0.0,18,repaid,1568,419.0,3,single,none,building society savings,24,none,rent,1,0,1,yes,unskilled resident,female,96,30,0,business,1,0,1,0,56.400000000000006
+83,-13.0,24,repaid,1755,29.0,4,single,guarantor,real estate,58,none,own,1,0,1,yes,unskilled resident,female,96,120,1,others,1,0,1,0,110.4
+84,-24.0,10,repaid,2315,77.0,3,single,none,real estate,52,none,own,1,0,1,yes,unskilled resident,male,96,120,0,radio/tv,1,0,1,0,110.4
+85,0.0,12,critical,1412,93.0,4,single,guarantor,real estate,29,none,own,2,0,1,yes,mangement self-employed,female,6,30,1,business,1,0,0,0,20.4
+86,29.0,18,critical,1295,80.0,4,single,none,building society savings,27,none,own,2,0,1,yes,skilled employee,female,6,6,0,furniture,0,0,0,0,6.0
+87,55.0,36,repaid,12612,382.0,1,single,none,other,47,none,for free,1,1,2,yes,skilled employee,male,96,30,1,education,1,0,1,0,56.400000000000006
+88,-48.0,18,repaid,2249,326.0,4,single,none,other,30,none,own,1,0,2,yes,mangement self-employed,male,24,30,1,car (new),1,0,1,0,27.6
+89,-36.0,12,fully repaid,1108,55.0,4,single,none,real estate,28,none,own,2,1,1,yes,skilled employee,male,24,66,0,repairs,1,0,1,0,49.2
+90,0.0,12,critical,618,35.0,4,single,none,real estate,56,none,own,1,0,1,yes,skilled employee,male,96,120,0,radio/tv,1,0,1,0,110.4
+91,-12.0,12,critical,1409,11.0,4,single,none,real estate,54,none,own,1,0,1,yes,skilled employee,male,24,120,0,car (used),1,0,1,0,81.6
+92,0.0,12,critical,797,0.0,4,single,none,building society savings,33,bank,own,1,1,2,yes,unskilled resident,female,60,120,0,radio/tv,1,0,1,0,96.0
+93,587.0,24,critical,3617,0.0,4,single,co-applicant,other,20,none,rent,2,0,1,yes,skilled employee,male,96,120,0,furniture,1,0,1,0,110.4
+94,153.0,12,repaid,1318,1836.0,4,single,none,real estate,54,none,own,1,0,1,yes,skilled employee,male,96,120,1,car (new),1,0,1,0,110.4
+95,155.0,54,fully repaid,15945,88.0,3,single,none,other,58,none,rent,1,1,1,yes,skilled employee,male,96,6,1,business,0,0,1,0,42.00000000000001
+96,0.0,12,critical,2012,0.0,4,single,none,other,61,none,own,1,0,1,yes,skilled employee,female,6,66,0,education,1,0,0,0,42.0
+97,126.0,18,repaid,2622,120.0,4,single,none,other,34,none,own,1,0,1,yes,skilled employee,male,96,30,0,business,1,0,1,0,56.400000000000006
+98,76.0,36,critical,2337,35.0,4,single,none,real estate,36,none,own,1,0,1,yes,skilled employee,male,96,120,0,radio/tv,1,0,1,0,110.4
+99,152.0,20,delayed,7057,0.0,3,single,none,building society savings,36,bank,rent,2,0,2,yes,mangement self-employed,male,96,66,1,car (used),1,0,1,0,78.0
+100,0.0,24,repaid,1469,355.0,4,married,none,real estate,41,none,rent,1,0,1,yes,unskilled resident,male,96,120,0,car (new),1,0,1,0,110.4
+101,41.0,36,repaid,2323,44.0,4,single,none,other,24,none,rent,1,0,1,yes,skilled employee,male,96,66,0,radio/tv,1,0,1,0,78.0
+102,0.0,6,delayed,932,84.0,3,single,none,real estate,24,none,own,1,0,1,yes,skilled employee,female,6,30,0,radio/tv,1,0,0,0,20.4
+103,195.0,9,critical,1919,60.0,4,single,none,other,35,none,rent,1,0,1,yes,skilled employee,male,24,66,1,furniture,1,0,1,0,49.2
+104,0.0,12,repaid,2445,0.0,2,married,none,other,26,none,rent,1,0,1,yes,skilled employee,male,60,6,1,car (used),0,0,1,0,27.6
+105,59.0,24,critical,11938,63.0,2,single,co-applicant,other,39,none,own,2,1,2,yes,mangement self-employed,male,24,30,1,others,1,0,1,0,27.6
+106,0.0,18,fully repaid this bank,6458,51.0,2,single,none,other,39,bank,own,2,1,2,yes,mangement self-employed,male,96,120,1,car (new),1,0,1,0,110.4
+107,115.0,12,repaid,6078,66.0,2,single,none,other,32,none,own,1,0,1,yes,skilled employee,male,6,66,0,car (new),1,0,0,0,42.0
+108,-27.0,24,repaid,7721,0.0,1,single,none,building society savings,30,none,own,1,0,1,no,skilled employee,female,6,6,1,furniture,0,0,0,0,6.0
+109,135.0,14,repaid,1410,999.0,1,married,none,real estate,35,none,own,1,0,1,yes,skilled employee,male,6,120,1,business,1,0,0,0,74.4
+110,71.0,6,delayed,1449,154.0,1,divorced,none,other,31,bank,own,2,0,2,yes,skilled employee,male,6,120,0,business,1,0,0,0,74.4
+111,501.0,15,repaid,392,7.0,4,single,none,building society savings,23,none,rent,1,0,1,yes,skilled employee,female,96,6,1,education,0,0,1,0,42.00000000000001
+112,78.0,18,repaid,6260,35.0,3,single,none,real estate,28,none,rent,1,0,1,yes,unskilled resident,male,24,30,0,car (new),1,0,1,0,27.6
+113,0.0,36,critical,7855,95.0,4,single,none,real estate,25,stores,own,2,1,1,yes,skilled employee,female,6,30,1,car (new),1,0,0,0,20.4
+114,-21.0,12,repaid,1680,841.0,3,married,none,real estate,35,none,own,1,0,1,yes,skilled employee,male,6,120,0,radio/tv,1,0,0,0,74.4
+115,0.0,48,critical,3578,0.0,4,single,none,real estate,47,none,own,1,0,1,yes,skilled employee,male,6,120,1,radio/tv,1,0,0,0,74.4
+116,-41.0,42,repaid,7174,0.0,4,single,none,other,30,none,own,1,1,1,yes,mangement self-employed,female,24,30,1,radio/tv,1,0,1,0,27.6
+117,-31.0,10,critical,2132,0.0,2,single,co-applicant,real estate,27,none,rent,2,0,1,no,skilled employee,female,24,6,0,furniture,0,0,1,0,13.200000000000001
+118,-28.0,33,critical,4281,670.0,1,single,none,other,23,none,own,2,1,1,yes,skilled employee,female,96,30,0,furniture,1,0,1,0,56.400000000000006
+119,180.0,12,critical,2366,512.0,3,divorced,none,other,36,none,own,1,0,1,yes,mangement self-employed,male,60,66,1,car (new),1,0,1,0,63.6
+120,-48.0,21,repaid,1835,9.0,3,single,none,real estate,25,none,own,2,1,1,yes,skilled employee,female,6,30,1,radio/tv,1,0,0,0,20.4
+121,0.0,24,critical,3868,38.0,4,single,none,other,41,none,rent,2,0,1,yes,mangement self-employed,female,6,120,1,car (used),1,0,0,0,74.4
+122,0.0,12,repaid,1768,58.0,3,single,none,real estate,24,none,rent,1,0,1,yes,unskilled resident,male,6,30,0,furniture,1,0,0,0,20.4
+123,771.0,10,critical,781,56.0,4,single,none,other,63,none,for free,2,0,1,yes,skilled employee,male,96,120,1,car (new),1,0,1,0,110.4
+124,62.0,18,repaid,1924,0.0,4,single,none,real estate,27,none,rent,1,1,1,yes,skilled employee,female,24,0,0,furniture,0,1,1,0,9.600000000000001
+125,-1.0,12,critical,2121,49.0,4,single,none,building society savings,30,none,own,2,0,1,yes,skilled employee,male,6,30,0,car (new),1,0,0,0,20.4
+126,-18.0,12,repaid,701,16.0,4,married,none,real estate,40,none,own,1,0,1,yes,unskilled resident,male,6,30,0,radio/tv,1,0,0,0,20.4
+127,175.0,12,repaid,639,26.0,4,single,none,other,30,none,own,1,1,1,yes,skilled employee,male,6,30,0,repairs,1,0,0,0,20.4
+128,33.0,12,critical,1860,54.0,4,single,none,other,34,none,own,2,0,1,yes,mangement self-employed,male,6,0,1,car (used),0,1,0,0,2.4000000000000004
+129,-23.0,12,critical,3499,19.0,3,single,co-applicant,real estate,29,none,own,2,1,1,yes,skilled employee,female,6,30,0,car (new),1,0,0,0,20.4
+130,72.0,48,repaid,8487,0.0,1,single,none,other,24,none,own,1,0,1,yes,skilled employee,female,6,66,0,car (new),1,0,0,0,42.0
+131,-10.0,36,delayed,6887,33.0,4,single,none,building society savings,29,stores,own,1,1,1,yes,skilled employee,male,24,30,1,education,1,0,1,0,27.6
+132,0.0,15,repaid,2708,94.0,2,single,none,building society savings,27,bank,own,2,0,1,yes,unskilled resident,male,24,6,0,furniture,0,0,1,0,13.200000000000001
+133,0.0,18,repaid,1984,31.0,4,single,none,other,47,bank,for free,2,0,1,yes,skilled employee,male,96,30,0,furniture,1,0,1,0,56.400000000000006
+134,0.0,60,repaid,10144,445.0,2,single,none,real estate,21,none,own,1,0,1,yes,skilled employee,female,96,30,1,radio/tv,1,0,1,0,56.400000000000006
+135,0.0,12,critical,1240,0.0,4,single,none,real estate,38,none,own,2,0,1,yes,skilled employee,female,6,120,1,radio/tv,1,0,0,0,74.4
+136,0.0,27,delayed,8613,18077.0,2,single,none,other,27,none,own,2,0,1,yes,skilled employee,male,6,30,0,car (used),1,0,0,0,20.4
+137,43.0,12,repaid,766,909.0,4,single,none,real estate,66,none,own,1,1,1,yes,unskilled resident,male,24,30,0,radio/tv,1,0,1,0,27.6
+138,113.0,15,critical,2728,0.0,4,single,guarantor,real estate,35,bank,own,3,0,1,yes,skilled employee,male,6,66,1,radio/tv,1,0,0,0,42.0
+139,461.0,12,repaid,1881,8.0,2,single,none,other,44,none,rent,1,0,1,yes,unskilled resident,female,6,30,1,radio/tv,1,0,0,0,20.4
+140,881.0,6,repaid,709,12048.0,2,married,none,real estate,27,none,own,1,0,1,no,unemployed non-resident,male,6,6,0,car (new),0,0,0,0,6.0
+141,67.0,36,repaid,4795,51.0,4,single,none,other,30,none,own,1,0,1,yes,mangement self-employed,female,6,6,1,radio/tv,0,0,0,0,6.0
+142,-39.0,27,repaid,3416,35.0,3,single,none,other,27,none,own,1,0,1,yes,mangement self-employed,male,6,30,0,radio/tv,1,0,0,0,20.4
+143,-15.0,18,repaid,2462,18.0,2,single,none,other,22,none,own,1,1,1,yes,skilled employee,male,6,30,0,furniture,1,0,0,0,20.4
+144,0.0,21,critical,2288,2.0,4,single,none,building society savings,23,none,own,1,0,1,yes,skilled employee,female,96,6,1,furniture,0,0,1,0,42.00000000000001
+145,40.0,48,fully repaid this bank,3566,416.0,4,single,none,other,30,none,own,1,0,1,yes,skilled employee,male,6,66,0,business,1,0,0,0,42.0
+146,-19.0,6,critical,860,80.0,1,single,none,other,39,none,own,2,0,1,yes,skilled employee,female,96,120,1,car (new),1,0,1,0,110.4
+147,0.0,12,critical,682,184.0,4,single,none,other,51,none,own,2,0,1,yes,skilled employee,female,60,30,1,car (new),1,0,1,0,42.0
+148,-29.0,36,critical,5371,80.0,3,single,guarantor,building society savings,28,none,own,2,0,1,yes,skilled employee,male,6,30,0,furniture,1,0,0,0,20.4
+149,0.0,18,critical,1582,2657.0,4,single,none,other,46,none,own,2,0,1,yes,skilled employee,male,96,120,0,radio/tv,1,0,1,0,110.4
+150,0.0,6,repaid,1346,385.0,2,single,none,other,42,bank,for free,1,0,2,yes,skilled employee,male,96,120,1,radio/tv,1,0,1,0,110.4
+151,0.0,10,repaid,1924,5.0,1,single,none,building society savings,38,none,own,1,0,1,no,skilled employee,male,96,30,1,radio/tv,1,0,1,0,56.400000000000006
+152,404.0,36,repaid,5848,85.0,4,single,none,other,24,none,own,1,0,1,yes,skilled employee,male,6,30,0,radio/tv,1,0,0,0,20.4
+153,177.0,24,critical,7758,12300.0,2,single,none,other,29,none,rent,1,0,1,yes,skilled employee,female,96,120,0,car (used),1,0,1,0,110.4
+154,151.0,24,delayed,6967,112.0,4,single,none,other,36,none,rent,1,0,1,yes,mangement self-employed,male,96,66,1,business,1,0,1,0,78.0
+155,-45.0,12,repaid,1282,66.0,2,single,none,other,20,none,rent,1,1,1,yes,skilled employee,female,96,30,0,furniture,1,0,1,0,56.400000000000006
+156,-48.0,9,critical,1288,314.0,3,single,guarantor,real estate,48,none,own,2,0,2,no,skilled employee,male,96,120,0,repairs,1,0,1,0,110.4
+157,-34.0,12,fully repaid this bank,339,9.0,4,married,none,other,45,bank,own,1,0,1,yes,unskilled resident,male,6,120,0,others,1,0,0,0,74.4
+158,32.0,24,repaid,3512,212.0,2,single,none,other,38,bank,own,2,0,1,yes,skilled employee,male,24,66,1,car (new),1,0,1,0,49.2
+159,0.0,6,critical,1898,0.0,1,single,none,real estate,34,none,own,2,0,2,yes,unskilled resident,male,6,30,0,radio/tv,1,0,0,0,20.4
+160,0.0,24,critical,2872,281.0,3,single,none,real estate,36,none,own,1,0,2,yes,skilled employee,male,96,120,1,radio/tv,1,0,1,0,110.4
+161,0.0,18,critical,1055,15.0,4,single,none,building society savings,30,none,own,2,0,1,yes,skilled employee,female,6,6,0,car (new),0,0,0,0,6.0
+162,0.0,15,repaid,1262,686.0,4,single,none,building society savings,36,none,own,2,0,1,yes,skilled employee,male,24,30,1,others,1,0,1,0,27.6
+163,196.0,10,repaid,7308,30.0,2,single,none,other,70,bank,for free,1,0,1,yes,mangement self-employed,male,96,0,1,car (new),0,1,1,0,38.400000000000006
+164,0.0,36,repaid,909,893.0,4,single,none,building society savings,36,none,own,1,0,1,yes,skilled employee,male,96,120,0,car (new),1,0,1,0,110.4
+165,0.0,6,repaid,2978,958.0,1,single,none,other,32,none,own,1,0,1,yes,skilled employee,male,6,30,1,furniture,1,0,0,0,20.4
+166,-11.0,18,repaid,1131,11.0,4,single,none,other,33,none,own,1,1,1,yes,skilled employee,female,6,0,0,furniture,0,1,0,0,2.4000000000000004
+167,172.0,11,repaid,1577,19835.0,4,single,none,real estate,20,none,own,1,0,1,yes,skilled employee,female,6,6,0,furniture,0,0,0,0,6.0
+168,0.0,24,repaid,3972,51.0,2,single,none,building society savings,25,none,rent,1,0,1,yes,skilled employee,female,96,30,1,furniture,1,0,1,0,56.400000000000006
+169,78.0,24,critical,1935,90.0,4,divorced,none,real estate,31,none,own,2,1,1,yes,skilled employee,male,96,120,1,business,1,0,1,0,110.4
+170,-29.0,15,fully repaid,950,38.0,4,single,none,other,33,none,rent,2,1,2,yes,skilled employee,male,60,66,0,car (new),1,0,1,0,63.6
+171,0.0,12,repaid,763,89.0,4,single,none,real estate,26,none,own,1,0,1,yes,skilled employee,female,6,30,1,furniture,1,0,0,0,20.4
+172,109.0,24,delayed,2064,28.0,3,single,none,building society savings,34,none,own,1,1,1,yes,mangement self-employed,female,6,0,1,furniture,0,1,0,0,2.4000000000000004
+173,75.0,8,repaid,1414,88.0,4,single,guarantor,real estate,33,none,own,1,0,1,no,skilled employee,male,6,30,0,radio/tv,1,0,0,0,20.4
+174,-29.0,21,delayed,3414,5.0,2,single,none,building society savings,26,none,own,2,1,1,yes,skilled employee,male,6,6,0,education,0,0,0,0,6.0
+175,0.0,30,fully repaid this bank,7485,0.0,4,single,none,real estate,53,bank,own,1,1,1,yes,mangement self-employed,female,6,0,1,car (used),0,1,0,0,2.4000000000000004
+176,-5.0,12,repaid,2577,14.0,2,divorced,none,other,42,none,own,1,0,1,yes,skilled employee,male,6,30,0,furniture,1,0,0,0,20.4
+177,-37.0,6,critical,338,838.0,4,single,none,other,52,none,own,2,0,1,yes,skilled employee,male,96,120,0,radio/tv,1,0,1,0,110.4
+178,0.0,12,repaid,1963,90.0,4,single,none,other,31,none,rent,2,0,2,yes,mangement self-employed,male,6,30,1,radio/tv,1,0,0,0,20.4
+179,-49.0,21,critical,571,59.0,4,single,none,real estate,65,none,own,2,0,1,yes,skilled employee,male,96,120,0,car (new),1,0,1,0,110.4
+180,0.0,36,delayed,9572,5.0,1,divorced,none,other,28,none,own,2,1,1,yes,skilled employee,male,6,6,0,business,0,0,0,0,6.0
+181,1.0,36,delayed,4455,30.0,2,divorced,none,real estate,30,stores,own,2,1,1,yes,mangement self-employed,male,6,30,1,business,1,0,0,0,20.4
+182,-42.0,21,fully repaid this bank,1647,0.0,4,single,none,building society savings,40,none,own,2,1,2,yes,unskilled resident,male,6,30,0,car (new),1,0,0,0,20.4
+183,0.0,24,critical,3777,5073.0,4,single,none,real estate,50,none,own,1,0,1,yes,skilled employee,male,96,30,1,furniture,1,0,1,0,56.400000000000006
+184,72.0,18,critical,884,13.0,4,single,none,other,36,bank,own,1,1,2,yes,skilled employee,male,96,66,1,car (new),1,0,1,0,78.0
+185,0.0,15,critical,1360,24.0,4,single,none,building society savings,31,none,own,2,0,1,yes,skilled employee,male,6,30,0,radio/tv,1,0,0,0,20.4
+186,42.0,9,fully repaid this bank,5129,49.0,2,single,none,other,74,bank,for free,1,1,2,yes,mangement self-employed,female,96,120,1,car (used),1,0,1,0,110.4
+187,57.0,16,critical,1175,83.0,2,single,none,other,68,none,for free,3,0,1,yes,unemployed non-resident,male,24,0,1,car (new),0,1,1,0,9.600000000000001
+188,-18.0,12,repaid,674,311.0,4,married,none,building society savings,20,none,own,1,1,1,yes,skilled employee,male,6,66,0,radio/tv,1,0,0,0,42.0
+189,193.0,18,fully repaid,3244,8.0,1,single,none,other,33,bank,own,2,0,1,yes,skilled employee,female,60,30,1,furniture,1,0,1,0,42.0
+190,0.0,24,repaid,4591,18484.0,2,single,none,building society savings,54,none,own,3,1,1,yes,mangement self-employed,male,24,30,1,business,1,0,1,0,27.6
+191,39.0,48,fully repaid,3844,289.0,4,single,none,other,34,none,for free,1,1,2,yes,unskilled resident,male,96,30,0,business,1,0,1,0,56.400000000000006
+192,130.0,27,repaid,3915,18.0,4,single,none,other,36,none,own,1,1,2,yes,skilled employee,male,6,30,1,business,1,0,0,0,20.4
+193,0.0,6,repaid,2108,42.0,2,married,none,real estate,29,none,rent,1,0,1,yes,skilled employee,male,6,66,0,radio/tv,1,0,0,0,42.0
+194,156.0,45,repaid,3031,331.0,4,single,guarantor,building society savings,21,none,rent,1,1,1,yes,skilled employee,male,96,30,0,radio/tv,1,0,1,0,56.400000000000006
+195,97.0,9,critical,1501,78.0,2,single,none,other,34,none,own,2,1,1,yes,mangement self-employed,female,24,120,1,education,1,0,1,0,81.6
+196,0.0,6,critical,1382,16.0,1,single,none,other,28,none,own,2,0,1,yes,skilled employee,female,6,30,1,radio/tv,1,0,0,0,20.4
+197,63.0,12,repaid,951,416.0,4,single,none,other,27,bank,rent,4,1,1,yes,skilled employee,female,96,6,0,furniture,0,0,1,0,42.00000000000001
+198,130.0,24,repaid,2760,0.0,4,single,none,other,36,bank,for free,1,0,1,yes,skilled employee,male,96,120,1,car (used),1,0,1,0,110.4
+199,132.0,18,delayed,4297,64.0,4,divorced,none,other,40,none,own,1,1,1,yes,mangement self-employed,male,24,120,1,furniture,1,0,1,0,81.6
+200,0.0,9,critical,936,601.0,4,single,none,other,52,none,own,2,0,1,yes,skilled employee,male,6,120,1,education,1,0,0,0,74.4
+201,-1.0,12,repaid,1168,66.0,4,married,none,real estate,27,none,own,1,0,1,yes,unskilled resident,male,24,30,0,car (new),1,0,1,0,27.6
+202,0.0,27,delayed,5117,33.0,3,single,none,other,26,none,own,2,0,1,yes,skilled employee,male,96,30,0,business,1,0,1,0,56.400000000000006
+203,-2.0,12,repaid,902,47.0,4,married,none,building society savings,21,none,rent,1,1,1,yes,skilled employee,male,96,30,0,others,1,0,1,0,56.400000000000006
+204,0.0,12,critical,1495,13.0,4,single,none,real estate,38,none,own,2,0,2,yes,unskilled resident,male,6,120,0,car (new),1,0,0,0,74.4
+205,-26.0,30,critical,10623,26.0,3,single,none,other,38,none,for free,3,0,2,yes,mangement self-employed,male,60,120,1,car (used),1,0,1,0,96.0
+206,0.0,12,critical,1935,39.0,4,single,none,real estate,43,none,own,3,0,1,yes,skilled employee,male,96,66,1,furniture,1,0,1,0,78.0
+207,147.0,12,critical,1424,59.0,4,single,none,building society savings,26,none,own,1,0,1,yes,skilled employee,male,24,66,0,others,1,0,1,0,49.2
+208,-37.0,24,repaid,6568,35.0,2,married,none,other,21,stores,own,1,0,1,yes,unskilled resident,male,6,30,0,business,1,0,0,0,20.4
+209,0.0,12,repaid,1413,9708.0,3,single,none,building society savings,55,none,own,1,0,1,no,skilled employee,male,6,66,0,car (used),1,0,0,0,42.0
+210,0.0,9,critical,3074,0.0,1,single,none,real estate,33,none,own,2,0,2,yes,skilled employee,male,6,30,0,radio/tv,1,0,0,0,20.4
+211,0.0,36,repaid,3835,0.0,2,single,none,real estate,45,none,own,1,0,1,yes,unskilled resident,female,96,120,1,radio/tv,1,0,1,0,110.4
+212,-25.0,27,fully repaid,5293,88.0,2,single,none,building society savings,50,stores,own,2,1,1,yes,skilled employee,male,96,0,1,business,0,1,1,0,38.400000000000006
+213,392.0,30,delayed,1908,41.0,4,single,none,real estate,66,none,own,1,1,1,yes,mangement self-employed,male,96,120,1,business,1,0,1,0,110.4
+214,0.0,36,critical,3342,0.0,4,single,none,other,51,none,own,1,0,1,yes,skilled employee,male,6,120,1,radio/tv,1,0,0,0,74.4
+215,41.0,6,critical,932,0.0,1,single,none,building society savings,39,none,own,2,0,1,yes,unskilled resident,female,24,66,0,others,1,0,1,0,49.2
+216,-8.0,18,fully repaid,3104,81.0,3,single,none,building society savings,31,bank,own,1,0,1,yes,skilled employee,male,6,66,1,business,1,0,0,0,42.0
+217,927.0,36,repaid,3913,71.0,2,single,none,real estate,23,none,own,1,0,1,yes,skilled employee,male,6,30,1,radio/tv,1,0,0,0,20.4
+218,-23.0,24,repaid,3021,90.0,2,divorced,none,real estate,24,none,rent,1,0,1,yes,unskilled resident,male,6,30,0,furniture,1,0,0,0,20.4
+219,0.0,10,repaid,1364,53.0,2,single,none,other,64,none,own,1,0,1,yes,skilled employee,female,60,30,1,car (new),1,0,1,0,42.0
+220,128.0,12,repaid,625,30.0,4,married,guarantor,real estate,26,bank,own,1,0,1,yes,unskilled resident,male,6,6,0,radio/tv,0,0,0,0,6.0
+221,-5.0,12,repaid,1200,0.0,4,single,none,building society savings,23,bank,rent,1,0,1,yes,skilled employee,female,96,30,1,education,1,0,1,0,56.400000000000006
+222,0.0,12,repaid,707,15.0,4,single,none,real estate,30,bank,own,2,0,1,yes,skilled employee,male,6,30,0,radio/tv,1,0,0,0,20.4
+223,0.0,24,delayed,2978,0.0,4,single,none,real estate,32,none,own,2,0,2,yes,skilled employee,male,96,30,1,business,1,0,1,0,56.400000000000006
+224,0.0,15,repaid,4657,12.0,3,single,none,other,30,none,own,1,0,1,yes,skilled employee,male,6,30,1,car (used),1,0,0,0,20.4
+225,0.0,36,fully repaid,2613,42.0,4,single,none,other,27,none,own,2,0,1,yes,skilled employee,male,6,30,0,repairs,1,0,0,0,20.4
+226,36.0,48,repaid,10961,2839.0,1,single,co-applicant,other,27,bank,own,2,1,1,yes,skilled employee,male,6,66,1,radio/tv,1,0,0,0,42.0
+227,-13.0,12,repaid,7865,51.0,4,single,none,other,53,none,for free,1,1,1,yes,mangement self-employed,male,96,120,1,furniture,1,0,1,0,110.4
+228,0.0,9,repaid,1478,78.0,4,single,none,other,22,none,own,1,1,1,yes,skilled employee,male,6,66,0,radio/tv,1,0,0,0,42.0
+229,-29.0,24,repaid,3149,71.0,4,single,none,other,22,bank,for free,1,0,1,yes,skilled employee,male,6,6,0,furniture,0,0,0,0,6.0
+230,753.0,36,repaid,4210,26.0,4,single,none,other,26,none,own,1,1,1,yes,skilled employee,male,6,30,0,radio/tv,1,0,0,0,20.4
+231,0.0,9,repaid,2507,896.0,2,single,none,other,51,none,for free,1,0,1,yes,unskilled resident,male,96,66,0,car (new),1,0,1,0,78.0
+232,0.0,12,repaid,2141,406.0,3,single,none,other,35,none,own,1,0,1,yes,skilled employee,male,6,66,0,radio/tv,1,0,0,0,42.0
+233,80.0,18,repaid,866,55.0,4,married,guarantor,real estate,25,none,own,1,0,1,yes,unskilled resident,male,6,30,0,radio/tv,1,0,0,0,20.4
+234,0.0,4,critical,1544,99.0,2,single,none,real estate,42,none,own,3,0,2,yes,unskilled resident,male,6,66,0,radio/tv,1,0,0,0,42.0
+235,-34.0,24,repaid,1823,54.0,4,single,none,other,30,stores,own,1,1,2,yes,mangement self-employed,male,6,0,0,radio/tv,0,1,0,0,2.4000000000000004
+236,170.0,6,repaid,14555,0.0,1,single,none,building society savings,23,none,own,1,1,1,yes,unemployed non-resident,male,6,0,1,car (new),0,1,0,0,2.4000000000000004
+237,122.0,21,repaid,2767,413.0,4,divorced,none,other,61,bank,rent,2,1,1,yes,unskilled resident,male,6,120,0,business,1,0,0,0,74.4
+238,0.0,12,critical,1291,90.0,4,single,none,building society savings,35,none,own,2,0,1,yes,skilled employee,female,6,30,0,radio/tv,1,0,0,0,20.4
+239,-42.0,30,repaid,2522,94.0,1,single,guarantor,building society savings,39,none,own,1,0,2,yes,skilled employee,male,24,120,0,radio/tv,1,0,1,0,81.6
+240,-12.0,24,repaid,915,0.0,4,single,none,other,29,bank,own,1,1,1,yes,skilled employee,female,6,120,0,car (new),1,0,0,0,74.4
+241,0.0,6,repaid,1595,25.0,3,single,none,building society savings,51,none,own,1,0,2,yes,skilled employee,male,6,66,0,radio/tv,1,0,0,0,42.0
+242,-33.0,48,fully repaid,4605,32.0,3,single,none,other,24,none,for free,2,1,2,yes,skilled employee,male,96,120,0,car (used),1,0,1,0,110.4
+243,0.0,12,critical,1185,65.0,3,single,none,real estate,27,none,own,2,0,1,yes,skilled employee,female,6,30,0,business,1,0,0,0,20.4
+244,0.0,12,fully repaid this bank,3447,970.0,4,single,none,real estate,35,none,own,1,0,2,yes,unskilled resident,female,24,30,0,others,1,0,1,0,27.6
+245,0.0,24,repaid,1258,8.0,4,single,none,real estate,25,none,own,1,0,1,yes,skilled employee,male,6,30,1,business,1,0,0,0,20.4
+246,0.0,12,critical,717,8.0,4,single,none,real estate,52,none,own,3,0,1,yes,skilled employee,male,96,120,0,radio/tv,1,0,1,0,110.4
+247,0.0,6,fully repaid,1204,492.0,4,single,none,other,35,bank,rent,1,0,1,no,skilled employee,male,6,30,0,car (new),1,0,0,0,20.4
+248,425.0,24,repaid,1925,27.0,2,single,none,real estate,26,none,own,1,0,1,yes,skilled employee,male,6,30,0,furniture,1,0,0,0,20.4
+249,0.0,18,repaid,433,70.0,3,single,co-applicant,real estate,22,none,rent,1,1,1,yes,skilled employee,female,96,0,0,radio/tv,0,1,1,0,38.400000000000006
+250,-47.0,6,critical,666,8063.0,3,single,none,real estate,39,none,own,2,0,1,yes,unskilled resident,female,96,66,1,car (new),1,0,1,0,78.0
+251,504.0,12,repaid,2251,2.0,1,single,none,other,46,none,own,1,0,1,yes,unskilled resident,female,6,30,0,furniture,1,0,0,0,20.4
+252,157.0,30,repaid,2150,21.0,4,single,guarantor,other,24,bank,own,1,1,1,yes,skilled employee,female,6,30,0,car (new),1,0,0,0,20.4
+253,0.0,24,delayed,4151,472.0,2,single,none,building society savings,35,none,own,2,0,1,yes,skilled employee,male,60,30,0,furniture,1,0,1,0,42.0
+254,82.0,9,repaid,2030,0.0,2,single,none,other,24,none,own,1,0,1,yes,skilled employee,male,6,66,1,furniture,1,0,0,0,42.0
+255,100.0,60,delayed,7418,0.0,1,single,none,real estate,27,none,own,1,0,1,yes,unskilled resident,male,6,30,0,radio/tv,1,0,0,0,20.4
+256,0.0,24,critical,2684,40.0,4,single,none,real estate,35,none,own,2,0,1,yes,unskilled resident,male,6,30,0,radio/tv,1,0,0,0,20.4
+257,-27.0,12,fully repaid this bank,2149,49.0,4,divorced,none,other,29,none,for free,1,1,1,yes,skilled employee,male,6,30,0,radio/tv,1,0,0,0,20.4
+258,0.0,15,repaid,3812,276.0,1,single,none,other,23,none,own,1,0,1,yes,skilled employee,female,96,6,1,car (used),0,0,1,0,42.00000000000001
+259,0.0,11,critical,1154,318.0,4,single,none,real estate,57,none,own,3,0,1,yes,unskilled resident,female,96,0,0,radio/tv,0,1,1,0,38.400000000000006
+260,-24.0,12,repaid,1657,40.0,2,single,none,real estate,27,none,own,1,0,1,yes,skilled employee,male,6,30,0,furniture,1,0,0,0,20.4
+261,-2.0,24,repaid,1603,19.0,4,single,none,other,55,none,own,1,0,1,yes,skilled employee,female,96,120,0,radio/tv,1,0,1,0,110.4
+262,-40.0,18,critical,5302,93.0,2,single,none,other,36,none,for free,3,0,1,yes,mangement self-employed,male,96,66,1,car (new),1,0,1,0,78.0
+263,0.0,12,critical,2748,44.0,2,single,none,other,57,bank,for free,3,0,1,yes,unskilled resident,female,96,120,0,education,1,0,1,0,110.4
+264,0.0,10,critical,1231,32.0,3,single,none,real estate,32,none,own,2,0,2,no,unskilled resident,male,96,66,0,car (new),1,0,1,0,78.0
+265,67.0,15,repaid,802,39.0,4,single,none,other,37,none,own,1,1,2,yes,skilled employee,male,24,120,0,radio/tv,1,0,1,0,81.6
+266,0.0,36,critical,6304,0.0,4,single,none,real estate,36,none,own,2,0,1,yes,skilled employee,male,96,120,0,business,1,0,1,0,110.4
+267,0.0,24,repaid,1533,98.0,4,single,none,other,38,stores,own,1,0,1,yes,skilled employee,female,24,6,1,radio/tv,0,0,1,0,13.200000000000001
+268,-3.0,14,repaid,8978,72.0,1,divorced,none,building society savings,45,none,own,1,1,1,no,mangement self-employed,male,96,120,1,car (new),1,0,1,0,110.4
+269,0.0,24,repaid,999,0.0,4,single,none,other,25,none,own,2,0,1,yes,skilled employee,male,6,120,0,radio/tv,1,0,0,0,74.4
+270,0.0,18,repaid,2662,0.0,4,single,none,building society savings,32,none,own,1,0,1,no,skilled employee,male,24,30,0,car (new),1,0,1,0,27.6
+271,0.0,12,critical,1402,647.0,3,single,none,other,37,none,rent,1,0,1,yes,skilled employee,female,96,66,1,furniture,1,0,1,0,78.0
+272,90.0,48,fully repaid this bank,12169,0.0,4,single,co-applicant,other,36,none,for free,1,0,1,yes,mangement self-employed,male,96,0,1,car (new),0,1,1,0,38.400000000000006
+273,157.0,48,repaid,3060,18.0,4,single,none,real estate,28,none,own,2,1,1,yes,skilled employee,male,96,66,0,radio/tv,1,0,1,0,78.0
+274,-47.0,30,repaid,11998,25.0,1,divorced,none,other,34,none,own,1,1,1,yes,unskilled resident,male,6,6,1,repairs,0,0,0,0,6.0
+275,0.0,9,repaid,2697,86.0,1,single,none,real estate,32,none,own,1,0,2,yes,skilled employee,male,6,30,0,radio/tv,1,0,0,0,20.4
+276,0.0,18,critical,2404,92.0,2,single,none,other,26,none,own,2,0,1,yes,skilled employee,female,6,30,0,radio/tv,1,0,0,0,20.4
+277,-8.0,12,repaid,1262,0.0,2,divorced,none,building society savings,49,none,own,1,0,1,yes,unskilled resident,male,96,120,1,furniture,1,0,1,0,110.4
+278,0.0,6,repaid,4611,28.0,1,single,none,building society savings,32,none,own,1,1,1,yes,skilled employee,female,96,0,0,furniture,0,1,1,0,38.400000000000006
+279,0.0,24,repaid,1901,213.0,4,single,none,other,29,none,rent,1,0,1,yes,mangement self-employed,male,96,30,1,radio/tv,1,0,1,0,56.400000000000006
+280,0.0,15,critical,3368,7306.0,3,single,none,other,23,none,rent,2,0,1,yes,skilled employee,male,96,120,1,car (used),1,0,1,0,110.4
+281,0.0,12,repaid,1574,49.0,4,single,none,real estate,50,none,own,1,0,1,yes,skilled employee,male,6,30,0,furniture,1,0,0,0,20.4
+282,405.0,18,fully repaid this bank,1445,0.0,4,single,none,other,49,bank,own,1,0,1,yes,unskilled resident,male,96,66,0,radio/tv,1,0,1,0,78.0
+283,0.0,15,critical,1520,0.0,4,single,none,building society savings,63,none,own,1,0,1,yes,skilled employee,male,96,120,0,furniture,1,0,1,0,110.4
+284,163.0,24,critical,3878,273.0,4,divorced,none,other,37,none,own,1,0,1,yes,skilled employee,male,6,6,1,car (new),0,0,0,0,6.0
+285,-24.0,47,repaid,10722,83.0,1,single,none,real estate,35,none,own,1,0,1,yes,unskilled resident,female,6,6,1,car (new),0,0,0,0,6.0
+286,-42.0,48,repaid,4788,68.0,4,single,none,building society savings,26,none,own,1,0,2,yes,skilled employee,male,60,66,0,car (used),1,0,1,0,63.6
+287,109.0,48,delayed,7582,406.0,2,single,none,other,31,none,for free,1,0,1,yes,mangement self-employed,male,96,0,1,others,0,1,1,0,38.400000000000006
+288,182.0,12,repaid,1092,91.0,4,single,guarantor,real estate,49,none,own,2,0,1,yes,skilled employee,female,96,30,1,radio/tv,1,0,1,0,56.400000000000006
+289,-14.0,24,delayed,1024,8.0,4,married,none,real estate,48,stores,own,1,1,1,yes,skilled employee,male,96,6,0,radio/tv,0,0,1,0,42.00000000000001
+290,0.0,12,repaid,1076,50.0,2,married,none,real estate,26,none,own,1,0,1,no,skilled employee,male,6,30,1,business,1,0,0,0,20.4
+291,58.0,36,repaid,9398,63.0,1,married,none,other,28,none,rent,1,1,1,yes,mangement self-employed,male,96,6,1,car (used),0,0,1,0,42.00000000000001
+292,-39.0,24,critical,6419,57.0,2,single,none,other,44,none,for free,2,0,2,yes,mangement self-employed,female,96,120,1,car (used),1,0,1,0,110.4
+293,623.0,42,critical,4796,40.0,4,single,none,other,56,none,for free,1,0,1,yes,skilled employee,male,96,120,0,car (used),1,0,1,0,110.4
+294,0.0,48,critical,7629,0.0,4,divorced,none,other,46,bank,own,2,0,2,yes,mangement self-employed,male,6,120,0,business,1,0,0,0,74.4
+295,146.0,48,repaid,9960,35.0,1,single,none,other,26,none,own,1,1,1,yes,skilled employee,female,6,6,1,furniture,0,0,0,0,6.0
+296,0.0,12,repaid,4675,0.0,1,single,none,other,20,none,rent,1,0,1,yes,skilled employee,female,96,0,0,car (used),0,1,1,0,38.400000000000006
+297,0.0,10,repaid,1287,0.0,4,single,co-applicant,building society savings,45,none,own,1,0,1,no,unskilled resident,male,6,120,0,car (new),1,0,0,0,74.4
+298,0.0,18,repaid,2515,75.0,3,single,none,real estate,43,none,own,1,0,1,yes,skilled employee,male,96,30,1,furniture,1,0,1,0,56.400000000000006
+299,18.0,21,critical,2745,14575.0,3,single,none,other,32,none,own,2,0,1,yes,skilled employee,male,6,66,1,furniture,1,0,0,0,42.0
+300,0.0,6,repaid,672,3.0,1,single,none,real estate,54,none,own,1,0,1,yes,unemployed non-resident,female,96,0,1,car (new),0,1,1,0,38.400000000000006
+301,194.0,36,fully repaid,3804,78.0,4,single,none,other,42,none,own,1,1,1,yes,skilled employee,female,6,30,1,radio/tv,1,0,0,0,20.4
+302,482.0,24,critical,1344,0.0,4,single,none,real estate,37,bank,own,2,1,2,yes,unskilled resident,male,6,66,0,car (new),1,0,0,0,42.0
+303,-15.0,10,critical,1038,4.0,4,single,co-applicant,building society savings,49,none,own,2,0,1,yes,skilled employee,male,24,66,1,car (new),1,0,1,0,49.2
+304,0.0,48,critical,10127,943.0,2,single,none,other,44,bank,for free,1,1,1,yes,skilled employee,male,6,30,0,car (new),1,0,0,0,20.4
+305,0.0,6,repaid,1543,2785.0,4,divorced,none,real estate,33,none,own,1,0,1,yes,skilled employee,male,6,30,0,furniture,1,0,0,0,20.4
+306,0.0,30,repaid,4811,0.0,2,single,none,building society savings,24,stores,rent,1,0,1,yes,unskilled resident,female,96,30,0,car (used),1,0,1,0,56.400000000000006
+307,-32.0,12,repaid,727,280.0,4,married,none,other,33,none,own,1,1,1,yes,unskilled resident,male,24,0,1,radio/tv,0,1,1,0,9.600000000000001
+308,179.0,8,repaid,1237,83.0,3,single,none,real estate,24,none,own,1,1,1,yes,skilled employee,female,60,30,0,furniture,1,0,1,0,42.0
+309,165.0,9,repaid,276,40.0,4,married,none,real estate,22,none,rent,1,0,1,yes,unskilled resident,male,96,30,0,car (new),1,0,1,0,56.400000000000006
+310,35.0,48,repaid,5381,0.0,3,single,none,other,40,bank,for free,1,0,1,yes,unemployed non-resident,male,96,0,1,others,0,1,1,0,38.400000000000006
+311,0.0,24,repaid,5511,115.0,4,single,none,other,25,stores,own,1,0,1,yes,skilled employee,male,6,30,0,furniture,1,0,0,0,20.4
+312,411.0,24,repaid,3749,38.0,2,single,none,other,26,none,own,1,0,1,yes,skilled employee,female,96,6,0,furniture,0,0,1,0,42.00000000000001
+313,32.0,12,repaid,685,33.0,2,married,none,other,25,bank,own,1,1,1,yes,unskilled resident,male,60,66,0,car (new),1,0,1,0,63.6
+314,927.0,4,repaid,1494,0.0,1,single,none,real estate,29,none,own,1,0,2,no,unskilled resident,male,6,6,0,car (new),0,0,0,0,6.0
+315,-17.0,36,fully repaid this bank,2746,13.0,4,single,none,other,31,bank,own,1,1,1,yes,skilled employee,male,60,120,0,furniture,1,0,1,0,96.0
+316,-47.0,12,repaid,708,83.0,2,single,guarantor,building society savings,38,none,own,1,0,2,yes,unskilled resident,male,24,30,0,furniture,1,0,1,0,27.6
+317,44.0,24,repaid,4351,0.0,1,single,none,building society savings,48,none,own,1,0,1,yes,unskilled resident,female,96,30,1,furniture,1,0,1,0,56.400000000000006
+318,0.0,12,critical,701,3.0,4,single,none,other,32,none,own,2,0,1,yes,skilled employee,male,6,30,0,education,1,0,0,0,20.4
+319,-6.0,15,delayed,3643,50.0,1,single,none,building society savings,27,none,own,2,0,1,yes,unskilled resident,female,96,120,0,furniture,1,0,1,0,110.4
+320,132.0,30,critical,4249,76.0,4,married,none,other,28,none,own,2,1,1,yes,mangement self-employed,male,6,0,0,car (new),0,1,0,0,2.4000000000000004
+321,-28.0,24,repaid,1938,4.0,4,divorced,none,building society savings,32,none,own,1,1,1,yes,skilled employee,male,24,6,0,radio/tv,0,0,1,0,13.200000000000001
+322,-2.0,24,repaid,2910,65.0,2,single,none,other,34,none,for free,1,0,1,yes,mangement self-employed,male,6,30,1,car (used),1,0,0,0,20.4
+323,-36.0,18,repaid,2659,10331.0,4,single,none,other,28,none,own,1,0,1,yes,skilled employee,male,6,30,0,furniture,1,0,0,0,20.4
+324,0.0,18,critical,1028,93.0,4,single,none,real estate,36,none,own,2,0,1,yes,skilled employee,female,24,30,0,car (new),1,0,1,0,27.6
+325,-43.0,8,critical,3398,66.0,1,single,none,real estate,39,none,own,2,0,1,no,unskilled resident,male,96,66,0,car (new),1,0,1,0,78.0
+326,0.0,12,critical,5801,0.0,2,single,none,building society savings,49,none,rent,1,0,1,yes,skilled employee,male,96,120,1,furniture,1,0,1,0,110.4
+327,0.0,24,repaid,1525,3858.0,4,single,none,other,34,none,own,1,0,2,yes,skilled employee,female,24,66,1,car (new),1,0,1,0,49.2
+328,425.0,36,repaid,4473,15.0,4,single,none,other,31,none,own,1,0,1,yes,skilled employee,male,6,120,0,radio/tv,1,0,0,0,74.4
+329,86.0,6,repaid,1068,65.0,4,single,none,other,28,none,own,1,0,2,yes,skilled employee,male,96,120,0,radio/tv,1,0,1,0,110.4
+330,-44.0,24,critical,6615,52.0,2,single,none,other,75,none,for free,2,0,1,yes,mangement self-employed,male,96,0,1,car (used),0,1,1,0,38.400000000000006
+331,0.0,18,critical,1864,313.0,4,single,none,real estate,30,none,own,2,1,1,yes,skilled employee,female,6,30,0,education,1,0,0,0,20.4
+332,72.0,60,repaid,7408,331.0,4,single,none,building society savings,24,none,own,1,1,1,yes,mangement self-employed,female,6,6,0,car (new),0,0,0,0,6.0
+333,0.0,48,critical,11590,399.0,2,single,none,other,24,bank,rent,2,1,1,yes,unskilled resident,female,96,30,0,car (used),1,0,1,0,56.400000000000006
+334,-1.0,24,fully repaid,4110,9.0,3,single,none,other,23,bank,rent,2,1,2,yes,skilled employee,male,96,120,0,furniture,1,0,1,0,110.4
+335,-48.0,6,critical,3384,38.0,1,divorced,none,real estate,44,none,rent,1,1,1,yes,mangement self-employed,male,96,30,1,furniture,1,0,1,0,56.400000000000006
+336,45.0,13,repaid,2101,95.0,2,single,guarantor,building society savings,23,none,own,1,0,1,yes,unskilled resident,female,96,6,0,radio/tv,0,0,1,0,42.00000000000001
+337,-13.0,15,repaid,1275,0.0,4,single,none,other,24,none,rent,1,1,1,yes,skilled employee,female,6,30,0,others,1,0,0,0,20.4
+338,-40.0,24,repaid,4169,81.0,4,single,none,building society savings,28,none,own,1,0,1,yes,skilled employee,male,60,30,0,furniture,1,0,1,0,42.0
+339,94.0,10,repaid,1521,57.0,4,divorced,none,other,31,none,own,1,0,1,yes,unskilled resident,male,6,30,0,furniture,1,0,0,0,20.4
+340,111.0,24,critical,5743,93.0,2,single,none,other,24,none,for free,2,0,1,yes,skilled employee,female,96,6,1,education,0,0,1,0,42.00000000000001
+341,-7.0,21,repaid,3599,14.0,1,single,none,other,26,none,rent,1,0,1,yes,unskilled resident,female,96,66,0,furniture,1,0,1,0,78.0
+342,62.0,18,repaid,3213,876.0,1,married,none,real estate,25,none,rent,1,0,1,yes,skilled employee,male,60,6,0,radio/tv,0,0,1,0,27.6
+343,72.0,18,repaid,4439,61.0,1,single,co-applicant,real estate,33,bank,own,1,0,1,yes,mangement self-employed,male,6,120,1,business,1,0,0,0,74.4
+344,406.0,10,repaid,3949,81.0,1,single,guarantor,building society savings,37,none,own,1,0,2,yes,unskilled resident,male,6,6,0,car (new),0,0,0,0,6.0
+345,0.0,15,critical,1459,57.0,4,single,none,other,43,none,own,1,0,1,yes,unskilled resident,female,6,30,0,radio/tv,1,0,0,0,20.4
+346,199.0,13,critical,882,0.0,4,single,guarantor,real estate,23,none,own,2,0,1,yes,skilled employee,male,96,6,0,radio/tv,0,0,1,0,42.00000000000001
+347,105.0,24,repaid,3758,790.0,1,single,none,other,23,none,rent,1,0,1,yes,unemployed non-resident,female,96,0,0,radio/tv,0,1,1,0,38.400000000000006
+348,0.0,6,delayed,1743,265.0,1,single,none,real estate,34,none,own,2,0,1,yes,unskilled resident,male,6,30,0,business,1,0,0,0,20.4
+349,5.0,9,critical,1136,6195.0,4,single,none,other,32,none,for free,2,1,2,yes,skilled employee,male,24,120,0,education,1,0,1,0,81.6
+350,0.0,9,repaid,1236,23.0,1,single,none,real estate,23,none,rent,1,0,1,yes,skilled employee,female,96,6,1,others,0,0,1,0,42.00000000000001
+351,77.0,9,repaid,959,51.0,1,single,none,other,29,none,own,1,1,1,no,skilled employee,female,6,30,0,furniture,1,0,0,0,20.4
+352,0.0,18,critical,3229,0.0,2,single,none,other,38,none,own,1,0,1,yes,mangement self-employed,male,96,0,1,car (used),0,1,1,0,38.400000000000006
+353,-50.0,12,fully repaid,6199,64.0,4,single,none,building society savings,28,none,rent,2,1,1,yes,skilled employee,male,6,30,1,radio/tv,1,0,0,0,20.4
+354,0.0,10,repaid,727,555.0,4,single,none,other,46,none,for free,1,0,1,yes,skilled employee,male,96,120,1,education,1,0,1,0,110.4
+355,12.0,24,repaid,1246,48.0,4,single,none,real estate,23,stores,own,1,1,1,yes,unskilled resident,male,6,6,0,car (new),0,0,0,0,6.0
+356,0.0,12,critical,2331,0.0,1,single,co-applicant,real estate,49,none,own,1,0,1,yes,skilled employee,male,96,120,1,radio/tv,1,0,1,0,110.4
+357,0.0,36,delayed,4463,30.0,4,single,none,other,26,none,own,2,1,1,yes,mangement self-employed,male,6,30,1,radio/tv,1,0,0,0,20.4
+358,0.0,12,repaid,776,98.0,4,married,none,real estate,28,none,own,1,0,1,yes,skilled employee,male,6,30,0,radio/tv,1,0,0,0,20.4
+359,-31.0,30,repaid,2406,5.0,4,single,none,real estate,23,none,rent,1,1,1,yes,skilled employee,female,60,66,0,furniture,1,0,1,0,63.6
+360,24.0,18,repaid,1239,0.0,4,single,none,other,61,none,for free,1,0,1,yes,skilled employee,male,96,30,0,education,1,0,1,0,56.400000000000006
+361,263.0,12,repaid,3399,0.0,2,single,none,other,37,none,own,1,0,1,yes,mangement self-employed,male,24,120,0,radio/tv,1,0,1,0,81.6
+362,656.0,12,delayed,2247,88.0,2,single,none,other,36,stores,own,2,0,1,yes,skilled employee,female,6,30,1,car (new),1,0,0,0,20.4
+363,0.0,6,repaid,1766,30.0,1,married,none,building society savings,21,none,rent,1,0,1,yes,skilled employee,male,6,30,0,furniture,1,0,0,0,20.4
+364,-15.0,18,repaid,2473,97.0,4,single,none,other,25,none,own,1,1,1,yes,unemployed non-resident,male,6,0,0,furniture,0,1,0,0,2.4000000000000004
+365,0.0,12,repaid,1542,34.0,2,single,none,other,36,none,own,1,0,1,yes,skilled employee,male,96,66,1,business,1,0,1,0,78.0
+366,0.0,18,critical,3850,0.0,3,single,none,other,27,none,own,2,0,1,yes,skilled employee,male,6,66,0,car (used),1,0,0,0,42.0
+367,-14.0,18,repaid,3650,15.0,1,single,none,other,22,none,rent,1,0,1,yes,skilled employee,female,96,6,0,furniture,0,0,1,0,42.00000000000001
+368,-40.0,36,repaid,3446,88.0,4,single,none,other,42,none,own,1,1,2,yes,skilled employee,male,6,120,0,furniture,1,0,0,0,74.4
+369,166.0,18,repaid,3001,84.0,2,single,none,real estate,40,none,rent,1,0,1,yes,skilled employee,female,60,66,0,furniture,1,0,1,0,63.6
+370,0.0,36,repaid,3079,0.0,4,single,none,real estate,36,none,own,1,0,1,yes,skilled employee,male,96,30,0,car (new),1,0,1,0,56.400000000000006
+371,0.0,18,critical,6070,43.0,3,single,none,other,33,none,own,2,0,1,yes,skilled employee,male,96,66,1,radio/tv,1,0,1,0,78.0
+372,0.0,10,critical,2146,26.0,1,single,none,real estate,23,none,rent,2,0,1,yes,skilled employee,female,24,6,0,furniture,0,0,1,0,13.200000000000001
+373,0.0,60,critical,13756,0.0,2,single,none,other,63,bank,for free,1,0,1,yes,mangement self-employed,male,60,120,1,car (new),1,0,1,0,96.0
+374,39.0,60,fully repaid this bank,14782,322.0,3,single,none,other,60,bank,for free,2,1,1,yes,mangement self-employed,female,60,120,1,others,1,0,1,0,96.0
+375,-10.0,48,fully repaid this bank,7685,23.0,2,single,guarantor,other,37,none,rent,1,1,1,yes,skilled employee,female,96,66,0,business,1,0,1,0,78.0
+376,0.0,18,delayed,2320,84.0,2,married,none,real estate,34,none,own,2,0,1,yes,skilled employee,male,24,0,0,radio/tv,0,1,1,0,9.600000000000001
+377,0.0,7,delayed,846,0.0,3,single,none,other,36,none,for free,1,0,1,yes,skilled employee,male,96,120,0,radio/tv,1,0,1,0,110.4
+378,154.0,36,repaid,14318,20.0,4,single,none,other,57,none,for free,1,1,1,yes,mangement self-employed,male,6,120,1,car (new),1,0,0,0,74.4
+379,0.0,6,critical,362,224.0,4,single,none,other,52,none,own,2,0,1,yes,unskilled resident,female,96,30,0,car (new),1,0,1,0,56.400000000000006
+380,-23.0,20,repaid,2212,0.0,4,single,none,other,39,none,own,1,0,1,yes,skilled employee,male,96,30,1,furniture,1,0,1,0,56.400000000000006
+381,32.0,18,repaid,12976,29.0,3,single,none,other,38,none,for free,1,1,1,yes,mangement self-employed,female,96,0,1,car (used),0,1,1,0,38.400000000000006
+382,0.0,22,repaid,1283,0.0,4,single,none,building society savings,25,none,rent,1,0,1,yes,skilled employee,female,96,66,0,car (new),1,0,1,0,78.0
+383,825.0,12,repaid,1330,47.0,4,single,none,real estate,26,none,own,1,0,1,yes,skilled employee,male,6,6,0,car (new),0,0,0,0,6.0
+384,0.0,30,delayed,4272,170.0,2,single,none,building society savings,26,none,own,2,0,1,yes,unskilled resident,male,6,30,0,business,1,0,0,0,20.4
+385,0.0,18,critical,2238,4.0,2,single,none,other,25,none,own,2,0,1,yes,skilled employee,female,6,30,0,radio/tv,1,0,0,0,20.4
+386,0.0,18,repaid,1126,0.0,4,single,none,real estate,21,none,rent,1,0,1,yes,skilled employee,female,6,6,1,radio/tv,0,0,0,0,6.0
+387,99.0,18,critical,7374,89.0,4,single,none,building society savings,40,stores,own,2,0,1,yes,mangement self-employed,male,96,0,1,furniture,0,1,1,0,38.400000000000006
+388,158.0,15,critical,2326,927.0,2,single,none,other,27,bank,own,1,0,1,yes,skilled employee,male,96,30,0,business,1,0,1,0,56.400000000000006
+389,0.0,9,repaid,1449,69.0,3,single,none,other,27,none,own,2,0,1,yes,skilled employee,female,6,66,0,business,1,0,0,0,42.0
+390,0.0,18,repaid,1820,42.0,2,married,none,building society savings,30,none,own,1,0,1,yes,mangement self-employed,male,6,30,1,car (new),1,0,0,0,20.4
+391,149.0,12,repaid,983,9697.0,1,single,none,real estate,19,none,rent,1,0,1,yes,unskilled resident,female,96,6,0,furniture,0,0,1,0,42.00000000000001
+392,-12.0,36,repaid,3249,71.0,2,single,none,other,39,bank,for free,1,0,2,yes,mangement self-employed,male,96,66,1,car (new),1,0,1,0,78.0
+393,-44.0,6,critical,1957,57.0,1,single,none,other,31,none,own,1,0,1,yes,skilled employee,female,96,30,0,radio/tv,1,0,1,0,56.400000000000006
+394,0.0,9,critical,2406,64.0,2,single,none,other,31,none,own,1,0,1,yes,mangement self-employed,male,60,0,0,furniture,0,1,1,0,24.0
+395,126.0,39,delayed,11760,148.0,2,single,none,other,32,none,rent,1,0,1,yes,skilled employee,male,60,66,1,education,1,0,1,0,63.6
+396,-24.0,12,repaid,2578,89.0,3,single,none,other,55,none,for free,1,0,1,yes,mangement self-employed,female,96,0,0,furniture,0,1,1,0,38.400000000000006
+397,-7.0,36,critical,2348,48.0,3,married,none,building society savings,46,none,own,2,0,1,yes,skilled employee,male,6,30,1,furniture,1,0,0,0,20.4
+398,8.0,12,repaid,1223,6.0,1,divorced,none,real estate,46,none,rent,2,1,1,yes,skilled employee,male,6,120,0,car (new),1,0,0,0,74.4
+399,0.0,24,critical,1516,10197.0,4,single,none,real estate,43,none,own,2,0,1,yes,unskilled resident,female,6,30,0,radio/tv,1,0,0,0,20.4
+400,0.0,18,repaid,1473,21.0,3,married,none,real estate,39,none,own,1,0,1,yes,skilled employee,male,96,0,1,radio/tv,0,1,1,0,38.400000000000006
+401,151.0,18,critical,1887,0.0,4,married,none,real estate,28,bank,own,2,0,1,yes,skilled employee,male,96,30,0,business,1,0,1,0,56.400000000000006
+402,0.0,24,delayed,8648,72.0,2,single,none,other,27,bank,own,2,1,1,yes,skilled employee,male,6,6,1,business,0,0,0,0,6.0
+403,0.0,14,delayed,802,64.0,4,single,none,other,27,none,own,2,0,1,yes,unskilled resident,male,6,30,0,car (new),1,0,0,0,20.4
+404,143.0,18,delayed,2899,0.0,4,single,none,other,43,none,own,1,0,2,yes,skilled employee,male,96,120,0,car (new),1,0,1,0,110.4
+405,67.0,24,repaid,2039,20.0,1,married,none,building society savings,22,none,own,1,1,1,yes,skilled employee,male,6,6,1,radio/tv,0,0,0,0,6.0
+406,0.0,24,critical,2197,0.0,4,single,none,other,43,none,own,2,0,2,yes,skilled employee,male,96,30,1,car (used),1,0,1,0,56.400000000000006
+407,-10.0,15,repaid,1053,92.0,4,married,none,real estate,27,none,own,1,0,1,no,skilled employee,male,6,6,0,radio/tv,0,0,0,0,6.0
+408,0.0,24,repaid,3235,912.0,3,divorced,none,other,26,none,own,1,0,1,yes,mangement self-employed,male,6,120,1,radio/tv,1,0,0,0,74.4
+409,314.0,12,critical,939,811.0,4,married,none,real estate,28,none,own,3,1,1,yes,skilled employee,male,6,66,1,car (new),1,0,0,0,42.0
+410,84.0,24,repaid,1967,85.0,4,single,none,other,20,none,own,1,0,1,yes,skilled employee,female,96,120,1,radio/tv,1,0,1,0,110.4
+411,0.0,33,critical,7253,36.0,3,single,none,other,35,none,own,2,0,1,yes,mangement self-employed,male,6,30,1,car (used),1,0,0,0,20.4
+412,0.0,12,critical,2292,42.0,4,single,none,other,42,stores,own,2,1,1,yes,mangement self-employed,male,6,0,1,business,0,1,0,0,2.4000000000000004
+413,0.0,10,repaid,1597,745.0,3,single,none,other,40,none,rent,1,0,2,no,unskilled resident,male,6,30,0,car (new),1,0,0,0,20.4
+414,-12.0,24,repaid,1381,0.0,4,single,none,building society savings,35,none,own,1,1,1,yes,skilled employee,female,6,30,0,car (new),1,0,0,0,20.4
+415,0.0,36,critical,5842,45.0,2,single,none,building society savings,35,none,own,2,0,2,yes,skilled employee,male,6,120,1,car (used),1,0,0,0,74.4
+416,-25.0,12,repaid,2579,10.0,4,single,none,real estate,33,none,own,1,1,2,yes,unskilled resident,male,6,6,0,car (new),0,0,0,0,6.0
+417,-27.0,18,delayed,8471,0.0,1,single,none,other,23,none,rent,2,0,1,yes,skilled employee,female,6,30,1,education,1,0,0,0,20.4
+418,0.0,21,repaid,2782,914.0,1,single,none,other,31,bank,own,1,0,1,yes,mangement self-employed,female,6,30,0,car (new),1,0,0,0,20.4
+419,110.0,18,repaid,1042,0.0,4,single,none,building society savings,33,none,own,1,1,1,yes,skilled employee,female,6,30,0,car (new),1,0,0,0,20.4
+420,0.0,15,repaid,3186,13074.0,2,single,none,other,20,none,rent,1,0,1,yes,skilled employee,female,24,66,0,car (new),1,0,1,0,49.2
+421,132.0,12,repaid,2028,0.0,4,single,none,other,30,none,own,1,0,1,yes,skilled employee,male,6,30,0,car (used),1,0,0,0,20.4
+422,170.0,12,critical,958,3.0,2,single,none,real estate,47,none,own,2,0,2,yes,unskilled resident,male,24,66,0,car (new),1,0,1,0,49.2
+423,0.0,21,delayed,1591,232.0,4,single,none,real estate,34,none,own,2,0,1,yes,mangement self-employed,male,24,30,0,furniture,1,0,1,0,27.6
+424,159.0,12,repaid,2762,0.0,1,single,none,building society savings,25,bank,own,1,1,1,yes,skilled employee,female,6,120,1,furniture,1,0,0,0,74.4
+425,30.0,18,repaid,2779,55.0,1,married,none,other,21,none,rent,1,0,1,yes,skilled employee,male,24,30,1,car (used),1,0,1,0,27.6
+426,0.0,28,critical,2743,24.0,4,single,none,other,29,none,own,2,0,1,yes,skilled employee,male,6,120,0,radio/tv,1,0,0,0,74.4
+427,0.0,18,critical,1149,1216.0,4,single,none,real estate,46,none,own,2,0,1,yes,skilled employee,male,24,30,0,radio/tv,1,0,1,0,27.6
+428,0.0,9,repaid,1313,89.0,1,single,none,other,20,none,own,1,0,1,yes,skilled employee,male,96,120,0,furniture,1,0,1,0,110.4
+429,-50.0,18,critical,1190,70.0,2,single,none,other,55,none,for free,3,1,2,yes,unemployed non-resident,female,96,0,0,repairs,0,1,1,0,38.400000000000006
+430,0.0,5,repaid,3448,3.0,1,single,none,real estate,74,none,own,1,0,1,yes,unskilled resident,male,96,66,0,business,1,0,1,0,78.0
+431,92.0,24,repaid,11328,22.0,2,single,co-applicant,other,29,bank,own,2,1,1,yes,mangement self-employed,male,24,30,1,others,1,0,1,0,27.6
+432,-47.0,6,critical,1872,34.0,4,single,none,other,36,none,for free,3,0,1,yes,mangement self-employed,male,96,0,1,furniture,0,1,1,0,38.400000000000006
+433,0.0,24,critical,2058,71.0,4,divorced,none,real estate,33,none,own,2,0,1,yes,skilled employee,male,6,30,1,repairs,1,0,0,0,20.4
+434,-21.0,9,repaid,2136,71.0,3,single,none,real estate,25,none,own,1,0,1,yes,skilled employee,male,6,30,0,furniture,1,0,0,0,20.4
+435,87.0,12,repaid,1484,0.0,2,married,none,real estate,25,none,own,1,1,1,yes,skilled employee,male,6,30,1,radio/tv,1,0,0,0,20.4
+436,0.0,6,repaid,660,561.0,2,married,none,real estate,23,none,rent,1,0,1,yes,unskilled resident,male,96,66,0,repairs,1,0,1,0,78.0
+437,0.0,24,critical,1287,18318.0,4,single,none,real estate,37,none,own,2,0,1,yes,skilled employee,female,60,120,1,car (new),1,0,1,0,96.0
+438,-7.0,42,critical,3394,61.0,4,single,co-applicant,other,65,none,own,2,0,1,yes,unemployed non-resident,male,96,0,0,repairs,0,1,1,0,38.400000000000006
+439,397.0,12,fully repaid this bank,609,74.0,4,single,none,real estate,26,none,own,1,1,1,yes,unemployed non-resident,female,6,6,0,business,0,0,0,0,6.0
+440,0.0,12,repaid,1884,89.0,4,single,none,other,39,none,own,1,0,1,yes,mangement self-employed,male,96,120,1,car (new),1,0,1,0,110.4
+441,-22.0,12,repaid,1620,29.0,2,single,co-applicant,building society savings,30,none,own,1,0,1,yes,skilled employee,female,24,30,0,furniture,1,0,1,0,27.6
+442,110.0,20,delayed,2629,40.0,2,single,none,other,29,bank,own,2,0,1,yes,skilled employee,male,24,30,1,others,1,0,1,0,27.6
+443,0.0,12,repaid,719,32.0,4,single,none,other,41,bank,own,1,1,2,yes,unskilled resident,male,96,120,0,education,1,0,1,0,110.4
+444,69.0,48,critical,5096,95.0,2,single,none,other,30,none,own,1,1,1,yes,mangement self-employed,female,24,30,1,furniture,1,0,1,0,27.6
+445,0.0,9,critical,1244,0.0,4,single,none,building society savings,41,none,rent,2,0,1,yes,unskilled resident,female,96,120,0,education,1,0,1,0,110.4
+446,-24.0,36,repaid,1842,3.0,4,single,none,other,34,none,own,1,1,1,yes,skilled employee,female,96,6,1,car (new),0,0,1,0,42.00000000000001
+447,82.0,7,repaid,2576,18.0,2,single,guarantor,real estate,35,none,own,1,0,1,yes,skilled employee,male,6,30,0,radio/tv,1,0,0,0,20.4
+448,745.0,12,repaid,1424,0.0,3,single,none,real estate,55,none,own,1,0,1,yes,mangement self-employed,female,96,120,1,furniture,1,0,1,0,110.4
+449,190.0,15,delayed,1512,1525.0,3,married,none,building society savings,61,stores,own,2,1,1,yes,skilled employee,male,24,30,0,repairs,1,0,1,0,27.6
+450,0.0,36,critical,11054,0.0,4,single,none,other,30,none,own,1,0,1,yes,mangement self-employed,male,6,30,1,car (used),1,0,0,0,20.4
+451,0.0,6,repaid,518,26.0,3,single,none,real estate,29,none,own,1,0,1,yes,skilled employee,female,6,30,0,radio/tv,1,0,0,0,20.4
+452,0.0,12,fully repaid,2759,83.0,2,single,none,building society savings,34,none,own,2,0,1,yes,skilled employee,male,96,120,0,furniture,1,0,1,0,110.4
+453,0.0,24,repaid,2670,86.0,4,single,none,other,35,none,own,1,0,1,yes,mangement self-employed,male,96,120,1,car (used),1,0,1,0,110.4
+454,-45.0,24,repaid,4817,87.0,2,single,co-applicant,building society savings,31,none,own,1,1,1,yes,skilled employee,male,24,66,1,car (new),1,0,1,0,49.2
+455,0.0,24,repaid,2679,35.0,4,single,none,other,29,none,own,1,0,1,yes,mangement self-employed,female,6,6,1,car (used),0,0,0,0,6.0
+456,-8.0,11,critical,3905,96.0,2,single,none,real estate,36,none,rent,2,0,2,yes,skilled employee,male,6,30,0,car (new),1,0,0,0,20.4
+457,-38.0,12,repaid,3386,87.0,3,single,none,other,35,none,for free,1,1,1,yes,skilled employee,male,96,120,1,car (used),1,0,1,0,110.4
+458,-37.0,6,repaid,343,30.0,4,single,none,real estate,27,none,own,1,0,1,yes,skilled employee,female,6,6,0,others,0,0,0,0,6.0
+459,0.0,18,repaid,4594,68.0,3,single,none,other,32,none,own,1,0,1,yes,skilled employee,male,6,6,1,radio/tv,0,0,0,0,6.0
+460,-29.0,36,repaid,3620,62.0,1,single,guarantor,building society savings,37,none,own,1,0,2,yes,skilled employee,male,6,30,0,furniture,1,0,0,0,20.4
+461,-43.0,15,repaid,1721,22.0,2,single,none,real estate,36,none,own,1,0,1,yes,skilled employee,male,24,6,0,car (new),0,0,1,0,13.200000000000001
+462,168.0,12,repaid,3017,91.0,3,single,none,real estate,34,none,rent,1,0,1,yes,mangement self-employed,female,6,6,0,furniture,0,0,0,0,6.0
+463,82.0,12,repaid,754,0.0,4,single,none,building society savings,38,none,own,2,0,1,yes,skilled employee,male,96,120,0,others,1,0,1,0,110.4
+464,0.0,18,repaid,1950,53.0,4,single,none,other,34,stores,own,2,0,1,yes,skilled employee,male,6,30,1,business,1,0,0,0,20.4
+465,-24.0,24,repaid,2924,37.0,3,single,guarantor,other,63,bank,own,1,0,2,yes,skilled employee,male,60,30,1,car (used),1,0,1,0,42.0
+466,-47.0,24,delayed,1659,88.0,4,single,none,other,29,none,rent,1,1,1,yes,unskilled resident,female,6,6,1,radio/tv,0,0,0,0,6.0
+467,0.0,48,delayed,7238,0.0,3,single,none,other,32,bank,own,2,0,2,yes,skilled employee,male,24,120,0,radio/tv,1,0,1,0,81.6
+468,0.0,33,delayed,2764,15.0,2,single,none,other,26,none,own,2,0,1,yes,skilled employee,female,6,30,1,business,1,0,0,0,20.4
+469,0.0,24,delayed,4679,25.0,3,single,none,other,35,none,own,2,0,1,yes,unskilled resident,male,60,30,1,car (used),1,0,1,0,42.0
+470,150.0,24,repaid,3092,168.0,3,married,none,other,22,none,rent,1,1,1,yes,skilled employee,male,6,6,1,radio/tv,0,0,0,0,6.0
+471,-42.0,6,repaid,448,52.0,4,single,none,building society savings,23,none,own,1,1,1,yes,skilled employee,female,96,6,0,education,0,0,1,0,42.00000000000001
+472,-45.0,9,repaid,654,98.0,4,single,none,other,28,none,own,1,1,1,yes,unskilled resident,male,60,30,0,car (new),1,0,1,0,42.0
+473,0.0,6,repaid,1238,0.0,4,single,none,building society savings,36,none,own,1,0,2,yes,mangement self-employed,male,96,0,1,others,0,1,1,0,38.400000000000006
+474,116.0,18,critical,1245,33.0,4,married,none,other,33,none,own,1,1,1,yes,skilled employee,male,6,30,0,radio/tv,1,0,0,0,20.4
+475,-46.0,18,fully repaid,3114,69.0,1,single,none,building society savings,26,none,rent,1,1,1,yes,skilled employee,female,96,6,0,furniture,0,0,1,0,42.00000000000001
+476,0.0,39,repaid,2569,817.0,4,single,none,other,24,none,own,1,0,1,yes,skilled employee,male,96,30,0,car (used),1,0,1,0,56.400000000000006
+477,282.0,24,repaid,5152,16.0,4,single,none,other,25,bank,own,1,0,1,yes,skilled employee,male,6,66,0,radio/tv,1,0,0,0,42.0
+478,174.0,12,repaid,1037,126.0,3,single,none,real estate,39,none,own,1,0,1,yes,unskilled resident,male,96,66,0,business,1,0,1,0,78.0
+479,-33.0,15,critical,1478,54.0,4,single,none,other,44,none,own,2,0,2,yes,skilled employee,male,96,120,1,furniture,1,0,1,0,110.4
+480,167.0,12,critical,3573,31.0,1,single,none,real estate,23,none,own,1,0,1,yes,unskilled resident,female,6,30,0,radio/tv,1,0,0,0,20.4
+481,138.0,24,repaid,1201,1.0,4,single,none,building society savings,26,none,own,1,0,1,yes,skilled employee,male,6,6,0,car (new),0,0,0,0,6.0
+482,-44.0,30,repaid,3622,14957.0,4,single,none,building society savings,57,none,rent,2,0,1,yes,skilled employee,female,60,120,1,furniture,1,0,1,0,96.0
+483,0.0,15,delayed,960,16242.0,3,single,none,building society savings,30,none,own,2,0,1,yes,skilled employee,female,6,30,0,furniture,1,0,0,0,20.4
+484,0.0,12,critical,1163,704.0,4,single,none,real estate,44,none,own,1,0,1,yes,skilled employee,male,96,30,1,car (new),1,0,1,0,56.400000000000006
+485,72.0,6,delayed,1209,9.0,4,single,none,building society savings,47,none,own,1,1,1,yes,mangement self-employed,male,96,0,1,car (new),0,1,1,0,38.400000000000006
+486,0.0,12,repaid,3077,70.0,2,single,none,other,52,none,own,1,0,1,yes,skilled employee,male,96,30,1,radio/tv,1,0,1,0,56.400000000000006
+487,0.0,24,repaid,3757,36.0,4,single,co-applicant,other,62,none,for free,1,0,1,yes,skilled employee,female,60,120,1,car (new),1,0,1,0,96.0
+488,0.0,10,repaid,1418,388.0,3,single,none,real estate,35,none,rent,1,0,1,no,unskilled resident,male,6,30,0,car (new),1,0,0,0,20.4
+489,0.0,6,repaid,3518,30.0,2,single,guarantor,building society savings,26,none,rent,1,0,1,yes,skilled employee,male,60,30,0,car (new),1,0,1,0,42.0
+490,0.0,12,critical,1934,50.0,2,single,none,other,26,none,own,2,0,1,yes,skilled employee,male,6,66,0,radio/tv,1,0,0,0,42.0
+491,155.0,27,fully repaid,8318,76.0,2,single,none,other,42,none,for free,2,1,1,yes,mangement self-employed,female,96,120,1,business,1,0,1,0,110.4
+492,0.0,6,critical,1237,153.0,1,single,none,building society savings,27,none,own,2,0,1,yes,skilled employee,female,6,30,0,radio/tv,1,0,0,0,20.4
+493,182.0,6,repaid,368,0.0,4,single,none,building society savings,38,none,own,1,0,1,yes,skilled employee,male,96,120,0,radio/tv,1,0,1,0,110.4
+494,-12.0,12,critical,2122,11.0,3,single,none,real estate,39,none,rent,2,0,2,no,unskilled resident,male,6,30,0,car (new),1,0,0,0,20.4
+495,-26.0,24,repaid,2996,0.0,2,married,none,other,20,none,own,1,1,1,yes,skilled employee,male,96,30,0,furniture,1,0,1,0,56.400000000000006
+496,74.0,36,repaid,9034,305.0,4,single,co-applicant,other,29,none,rent,1,1,1,yes,mangement self-employed,male,6,6,1,furniture,0,0,0,0,6.0
+497,0.0,24,critical,1585,30.0,4,single,none,building society savings,40,none,own,2,0,1,yes,skilled employee,male,24,30,0,furniture,1,0,1,0,27.6
+498,153.0,18,repaid,1301,88.0,4,married,guarantor,real estate,32,none,own,1,0,1,yes,unskilled resident,male,6,120,0,radio/tv,1,0,0,0,74.4
+499,288.0,6,critical,1323,283.0,2,divorced,none,other,28,none,own,2,0,2,yes,skilled employee,male,96,120,1,car (new),1,0,1,0,110.4
+500,-4.0,24,repaid,3123,60.0,4,single,none,building society savings,27,none,own,1,1,1,yes,skilled employee,female,6,6,0,car (new),0,0,0,0,6.0
+501,-20.0,36,repaid,5493,51.0,2,single,none,other,42,none,for free,1,0,2,yes,skilled employee,male,96,120,0,car (used),1,0,1,0,110.4
+502,495.0,9,repaid,1126,106.0,2,divorced,none,real estate,49,none,own,1,0,1,yes,skilled employee,male,96,120,0,radio/tv,1,0,1,0,110.4
+503,148.0,24,critical,1216,329.0,4,single,none,other,38,bank,own,2,1,2,yes,skilled employee,male,96,6,0,radio/tv,0,0,1,0,42.00000000000001
+504,-30.0,24,repaid,1207,48.0,4,single,none,building society savings,24,none,rent,1,1,1,yes,skilled employee,female,96,6,0,car (new),0,0,1,0,42.00000000000001
+505,0.0,10,repaid,1309,0.0,4,single,guarantor,building society savings,27,none,own,1,1,1,yes,unskilled resident,male,96,30,0,car (new),1,0,1,0,56.400000000000006
+506,562.0,15,critical,2360,559.0,2,single,none,other,36,none,own,1,0,1,yes,skilled employee,male,6,30,1,car (used),1,0,0,0,20.4
+507,190.0,15,fully repaid this bank,6850,219.0,1,single,none,building society savings,34,none,own,1,1,2,yes,mangement self-employed,male,6,0,1,car (new),0,1,0,0,2.4000000000000004
+508,0.0,24,repaid,1413,76.0,4,married,none,building society savings,28,none,own,1,0,1,yes,skilled employee,male,6,30,0,radio/tv,1,0,0,0,20.4
+509,0.0,39,repaid,8588,206.0,4,single,none,other,45,none,own,1,0,1,yes,mangement self-employed,male,6,120,1,car (used),1,0,0,0,74.4
+510,-34.0,12,repaid,759,46.0,4,single,none,real estate,26,none,own,1,1,1,yes,skilled employee,male,6,66,0,car (new),1,0,0,0,42.0
+511,0.0,36,repaid,4686,83.0,2,single,none,other,32,none,for free,1,0,1,yes,mangement self-employed,male,6,30,1,car (used),1,0,0,0,20.4
+512,435.0,15,repaid,2687,70.0,2,single,none,building society savings,26,none,rent,1,0,1,yes,skilled employee,male,60,66,1,business,1,0,1,0,63.6
+513,108.0,12,delayed,585,30.0,4,married,co-applicant,real estate,20,none,rent,2,0,1,yes,skilled employee,male,96,30,0,radio/tv,1,0,1,0,56.400000000000006
+514,0.0,24,repaid,2255,0.0,4,single,none,building society savings,54,none,own,1,0,1,yes,skilled employee,male,6,6,0,car (new),0,0,0,0,6.0
+515,-32.0,6,critical,609,65.0,4,single,none,building society savings,37,none,own,2,0,1,no,skilled employee,female,24,66,0,car (new),1,0,1,0,49.2
+516,-38.0,6,critical,1361,19.0,2,single,none,real estate,40,none,own,1,0,2,no,unskilled resident,male,96,6,0,car (new),0,0,1,0,42.00000000000001
+517,0.0,36,critical,7127,52.0,2,single,none,building society savings,23,none,rent,2,1,1,yes,skilled employee,female,96,0,1,furniture,0,1,1,0,38.400000000000006
+518,-22.0,6,repaid,1203,199.0,3,single,none,building society savings,43,none,own,1,0,1,yes,skilled employee,male,6,120,1,car (new),1,0,0,0,74.4
+519,0.0,6,critical,700,0.0,4,single,none,other,36,none,for free,2,0,1,yes,skilled employee,male,96,120,0,radio/tv,1,0,1,0,110.4
+520,0.0,24,critical,5507,25.0,3,single,none,other,44,none,for free,2,0,1,yes,skilled employee,male,96,120,0,repairs,1,0,1,0,110.4
+521,-39.0,18,repaid,3190,89.0,2,single,none,real estate,24,none,own,1,1,1,yes,skilled employee,female,6,30,0,radio/tv,1,0,0,0,20.4
+522,-24.0,48,fully repaid,7119,55.0,3,single,none,other,53,none,for free,2,1,2,yes,skilled employee,male,96,30,0,furniture,1,0,1,0,56.400000000000006
+523,0.0,24,repaid,3488,361.0,3,single,none,other,23,none,own,1,0,1,yes,skilled employee,female,96,66,0,car (used),1,0,1,0,78.0
+524,22.0,18,repaid,1113,40.0,4,single,guarantor,real estate,26,none,own,1,0,2,yes,unskilled resident,female,96,30,0,radio/tv,1,0,1,0,56.400000000000006
+525,29.0,26,repaid,7966,86.0,2,single,none,other,30,none,own,2,0,1,yes,skilled employee,male,24,6,0,car (used),0,0,1,0,13.200000000000001
+526,0.0,15,critical,1532,410.0,4,single,none,other,31,none,own,1,0,1,yes,skilled employee,female,24,30,0,education,1,0,1,0,27.6
+527,0.0,4,critical,1503,57.0,2,single,none,real estate,42,none,own,2,0,2,yes,unskilled resident,male,6,66,0,radio/tv,1,0,0,0,42.0
+528,-22.0,36,repaid,2302,73.0,4,divorced,none,other,31,none,rent,1,1,1,yes,skilled employee,male,60,30,0,radio/tv,1,0,1,0,42.0
+529,-39.0,6,repaid,662,13.0,3,single,none,real estate,41,none,own,1,0,2,yes,unskilled resident,male,96,6,1,car (new),0,0,1,0,42.00000000000001
+530,127.0,36,repaid,2273,57.0,3,single,none,other,32,none,own,2,0,2,yes,skilled employee,male,6,30,0,education,1,0,0,0,20.4
+531,192.0,15,repaid,2631,214.0,2,single,none,other,28,none,rent,2,1,1,yes,skilled employee,female,96,30,1,car (new),1,0,1,0,56.400000000000006
+532,0.0,12,delayed,1503,17.0,4,married,none,real estate,41,none,rent,1,0,1,yes,skilled employee,male,96,30,0,car (used),1,0,1,0,56.400000000000006
+533,0.0,24,repaid,1311,164.0,4,married,none,building society savings,26,none,own,1,0,1,yes,skilled employee,male,24,66,1,radio/tv,1,0,1,0,49.2
+534,0.0,24,repaid,3105,0.0,4,single,none,other,25,none,own,2,0,1,yes,skilled employee,male,6,6,0,radio/tv,0,0,0,0,6.0
+535,821.0,21,critical,2319,29.0,2,divorced,none,other,33,none,rent,1,1,1,yes,skilled employee,male,6,6,0,education,0,0,0,0,6.0
+536,-9.0,6,repaid,1374,0.0,4,single,none,building society savings,75,none,own,1,0,1,yes,mangement self-employed,female,24,0,1,car (new),0,1,1,0,9.600000000000001
+537,71.0,18,critical,3612,19.0,3,single,none,building society savings,37,none,own,1,0,1,yes,skilled employee,female,96,120,1,furniture,1,0,1,0,110.4
+538,-43.0,48,repaid,7763,19.0,4,single,none,other,42,bank,for free,1,1,1,yes,mangement self-employed,male,96,120,0,car (new),1,0,1,0,110.4
+539,782.0,18,repaid,3049,5.0,1,single,none,building society savings,45,stores,own,1,0,1,yes,unskilled resident,female,6,6,0,furniture,0,0,0,0,6.0
+540,2.0,12,repaid,1534,57.0,1,married,none,real estate,23,none,rent,1,1,1,yes,skilled employee,male,6,6,0,radio/tv,0,0,0,0,6.0
+541,0.0,24,delayed,2032,71.0,4,single,none,other,60,none,for free,2,0,1,yes,skilled employee,male,96,120,1,car (new),1,0,1,0,110.4
+542,-22.0,30,repaid,6350,0.0,4,single,none,building society savings,31,none,own,1,1,1,yes,skilled employee,male,96,120,0,furniture,1,0,1,0,110.4
+543,989.0,18,repaid,2864,80.0,2,single,none,real estate,34,none,own,1,1,2,yes,unskilled resident,male,6,30,0,furniture,1,0,0,0,20.4
+544,0.0,12,critical,1255,4.0,4,single,none,real estate,61,none,own,2,0,1,yes,unskilled resident,male,96,120,0,car (new),1,0,1,0,110.4
+545,-8.0,24,delayed,1333,38.0,4,single,none,real estate,43,none,for free,2,1,2,yes,skilled employee,male,6,0,0,car (new),0,1,0,0,2.4000000000000004
+546,0.0,24,critical,2022,80.0,4,single,none,other,37,none,own,1,0,1,yes,skilled employee,female,96,30,1,car (new),1,0,1,0,56.400000000000006
+547,0.0,24,repaid,1552,76.0,3,single,none,other,32,bank,own,1,0,2,yes,skilled employee,male,6,66,0,radio/tv,1,0,0,0,42.0
+548,-27.0,12,fully repaid this bank,626,46.0,4,single,none,real estate,24,bank,own,1,1,1,yes,unskilled resident,female,96,30,0,radio/tv,1,0,1,0,56.400000000000006
+549,0.0,48,critical,8858,0.0,2,single,none,other,35,none,for free,2,0,1,yes,skilled employee,male,6,30,1,car (used),1,0,0,0,20.4
+550,0.0,12,critical,996,0.0,4,single,none,real estate,23,none,own,2,0,1,yes,skilled employee,female,96,66,0,repairs,1,0,1,0,78.0
+551,0.0,6,fully repaid this bank,1750,516.0,2,single,none,building society savings,45,bank,own,1,0,2,yes,unskilled resident,male,96,120,0,radio/tv,1,0,1,0,110.4
+552,-33.0,48,repaid,6999,51.0,1,married,guarantor,real estate,34,none,own,2,1,1,yes,skilled employee,male,6,66,1,radio/tv,1,0,0,0,42.0
+553,94.0,12,critical,1995,483.0,4,single,none,other,27,none,own,1,0,1,yes,skilled employee,male,6,6,0,car (new),0,0,0,0,6.0
+554,138.0,9,repaid,1199,37.0,4,single,none,building society savings,67,none,own,2,0,1,yes,mangement self-employed,female,96,66,1,education,1,0,1,0,78.0
+555,102.0,12,repaid,1331,50.0,2,single,none,other,22,stores,own,1,1,1,yes,skilled employee,male,6,6,0,radio/tv,0,0,0,0,6.0
+556,33.0,18,fully repaid,2278,406.0,3,single,none,other,28,none,own,2,1,1,yes,skilled employee,female,24,6,0,car (new),0,0,1,0,13.200000000000001
+557,0.0,21,fully repaid,5003,0.0,1,single,none,building society savings,29,bank,own,2,1,1,yes,skilled employee,female,96,30,1,car (new),1,0,1,0,56.400000000000006
+558,-5.0,24,fully repaid this bank,3552,50.0,3,single,none,other,27,bank,own,1,1,1,yes,skilled employee,male,96,66,0,furniture,1,0,1,0,78.0
+559,115.0,18,critical,1928,80.0,2,single,none,real estate,31,none,own,2,1,1,yes,unskilled resident,male,6,6,0,furniture,0,0,0,0,6.0
+560,-22.0,24,repaid,2964,0.0,4,single,none,other,49,bank,for free,1,0,2,yes,skilled employee,male,96,120,1,car (used),1,0,1,0,110.4
+561,-1.0,24,fully repaid this bank,1546,22.0,4,single,guarantor,other,24,bank,rent,1,1,1,yes,unskilled resident,male,96,30,0,radio/tv,1,0,1,0,56.400000000000006
+562,376.0,6,delayed,683,32.0,2,single,none,building society savings,29,bank,own,1,0,1,yes,skilled employee,female,6,6,0,radio/tv,0,0,0,0,6.0
+563,82.0,36,repaid,12389,0.0,1,single,none,other,37,none,for free,1,1,1,yes,skilled employee,male,60,30,1,car (new),1,0,1,0,42.0
+564,85.0,24,delayed,4712,0.0,4,single,none,building society savings,37,bank,own,2,0,1,yes,mangement self-employed,male,6,30,1,business,1,0,0,0,20.4
+565,150.0,24,delayed,1553,205.0,3,single,none,building society savings,23,none,rent,2,0,1,yes,skilled employee,female,6,30,1,radio/tv,1,0,0,0,20.4
+566,-2.0,12,repaid,1372,52.0,2,divorced,none,other,36,none,own,1,1,1,yes,skilled employee,male,60,66,0,car (new),1,0,1,0,63.6
+567,0.0,24,critical,2578,19342.0,2,single,none,other,34,none,own,1,0,1,yes,skilled employee,male,6,120,0,radio/tv,1,0,0,0,74.4
+568,38.0,48,repaid,3979,0.0,4,single,none,other,41,none,own,2,0,2,yes,skilled employee,male,6,66,1,radio/tv,1,0,0,0,42.0
+569,-13.0,48,repaid,6758,14.0,3,single,none,other,31,none,own,1,1,1,yes,skilled employee,female,6,30,1,radio/tv,1,0,0,0,20.4
+570,-2.0,24,repaid,3234,74.0,4,single,none,real estate,23,none,rent,1,1,1,yes,unskilled resident,female,96,0,1,furniture,0,1,1,0,38.400000000000006
+571,0.0,30,critical,5954,15.0,3,single,co-applicant,other,38,none,own,1,0,1,yes,skilled employee,male,6,30,0,radio/tv,1,0,0,0,20.4
+572,0.0,24,repaid,5433,0.0,2,single,none,building society savings,26,none,rent,1,0,1,yes,mangement self-employed,female,60,0,1,car (used),0,1,1,0,24.0
+573,-6.0,15,repaid,806,95.0,4,single,none,building society savings,22,none,own,1,0,1,yes,unskilled resident,female,96,30,0,business,1,0,1,0,56.400000000000006
+574,181.0,9,repaid,1082,19.0,4,single,none,other,27,none,own,2,0,1,yes,unskilled resident,male,96,120,0,radio/tv,1,0,1,0,110.4
+575,0.0,15,critical,2788,97.0,2,single,co-applicant,other,24,bank,own,2,0,1,yes,skilled employee,female,60,30,0,furniture,1,0,1,0,42.0
+576,102.0,12,repaid,2930,36.0,2,single,none,real estate,27,none,own,1,0,1,yes,skilled employee,female,6,66,0,radio/tv,1,0,0,0,42.0
+577,0.0,24,critical,1927,0.0,3,single,none,other,33,none,own,2,0,1,yes,skilled employee,female,6,30,1,education,1,0,0,0,20.4
+578,140.0,36,critical,2820,11.0,4,divorced,none,other,27,none,own,2,1,1,yes,skilled employee,male,96,6,0,car (new),0,0,1,0,42.00000000000001
+579,0.0,24,repaid,937,1.0,4,married,none,other,27,none,own,2,0,1,yes,unskilled resident,male,24,6,0,others,0,0,1,0,13.200000000000001
+580,79.0,18,critical,1056,90.0,3,single,guarantor,real estate,30,bank,own,2,1,1,yes,skilled employee,male,60,120,0,car (new),1,0,1,0,96.0
+581,76.0,12,critical,3124,6.0,1,single,none,real estate,49,bank,own,2,0,2,yes,unskilled resident,male,24,6,0,car (new),0,0,1,0,13.200000000000001
+582,0.0,9,repaid,1388,30.0,4,single,none,real estate,26,none,rent,1,0,1,yes,skilled employee,female,6,30,0,furniture,1,0,0,0,20.4
+583,196.0,36,repaid,2384,47.0,4,single,none,other,33,none,rent,1,1,1,yes,unskilled resident,male,6,6,0,repairs,0,0,0,0,6.0
+584,0.0,12,repaid,2133,0.0,4,single,none,other,52,none,for free,1,0,1,yes,mangement self-employed,female,96,120,1,car (new),1,0,1,0,110.4
+585,-41.0,18,repaid,2039,0.0,1,single,none,real estate,20,bank,rent,1,1,1,yes,skilled employee,female,96,30,0,furniture,1,0,1,0,56.400000000000006
+586,-24.0,9,critical,2799,31.0,2,single,none,real estate,36,none,rent,2,0,2,yes,skilled employee,male,6,30,0,car (new),1,0,0,0,20.4
+587,-38.0,12,repaid,1289,92.0,4,single,guarantor,building society savings,21,none,own,1,0,1,yes,unskilled resident,male,6,30,0,furniture,1,0,0,0,20.4
+588,-31.0,18,repaid,1217,1.0,4,married,none,real estate,47,none,own,1,1,1,yes,unskilled resident,male,24,30,1,others,1,0,1,0,27.6
+589,-6.0,12,critical,2246,17.0,3,single,none,building society savings,60,none,own,2,1,1,yes,skilled employee,male,60,120,0,furniture,1,0,1,0,96.0
+590,-21.0,12,critical,385,60.0,4,single,none,real estate,58,none,own,4,0,1,yes,unskilled resident,female,24,66,1,radio/tv,1,0,1,0,49.2
+591,14.0,24,delayed,1965,0.0,4,single,none,other,42,none,rent,2,0,1,yes,skilled employee,female,96,30,1,car (new),1,0,1,0,56.400000000000006
+592,0.0,21,repaid,1572,19485.0,4,single,none,real estate,36,bank,own,1,0,1,yes,unskilled resident,female,96,66,0,business,1,0,1,0,78.0
+593,131.0,24,repaid,2718,53.0,3,single,none,building society savings,20,none,rent,1,1,1,yes,unskilled resident,female,96,30,1,car (new),1,0,1,0,56.400000000000006
+594,-8.0,24,fully repaid this bank,1358,0.0,4,single,none,other,40,stores,own,1,1,1,yes,mangement self-employed,male,60,120,1,others,1,0,1,0,96.0
+595,16.0,6,fully repaid this bank,931,213.0,1,single,none,building society savings,32,stores,own,1,1,1,yes,unskilled resident,female,6,6,0,car (new),0,0,0,0,6.0
+596,-11.0,24,repaid,1442,89.0,4,single,none,other,23,none,rent,2,1,1,yes,skilled employee,female,96,66,0,car (new),1,0,1,0,78.0
+597,71.0,24,fully repaid,4241,24.0,1,single,none,real estate,36,none,own,3,1,1,yes,unskilled resident,male,96,30,1,business,1,0,1,0,56.400000000000006
+598,0.0,18,critical,2775,13.0,2,single,none,building society savings,31,bank,own,2,1,1,yes,skilled employee,male,6,30,0,car (new),1,0,0,0,20.4
+599,0.0,24,delayed,3863,98.0,1,single,none,other,32,none,for free,1,0,1,yes,skilled employee,male,6,30,0,business,1,0,0,0,20.4
+600,5.0,7,repaid,2329,82.0,1,single,guarantor,real estate,45,none,own,1,0,1,yes,skilled employee,female,6,6,0,radio/tv,0,0,0,0,6.0
+601,177.0,9,repaid,918,86.0,4,single,none,building society savings,30,none,own,1,1,1,yes,skilled employee,female,6,30,0,furniture,1,0,0,0,20.4
+602,187.0,24,fully repaid this bank,1837,89.0,4,single,none,other,34,bank,for free,1,1,1,yes,unskilled resident,female,96,66,0,education,1,0,1,0,78.0
+603,0.0,36,repaid,3349,0.0,4,single,none,other,28,none,own,1,1,1,yes,mangement self-employed,female,6,30,1,furniture,1,0,0,0,20.4
+604,553.0,10,repaid,1275,42.0,4,single,none,building society savings,23,none,own,1,0,1,yes,skilled employee,female,6,0,0,furniture,0,1,0,0,2.4000000000000004
+605,-42.0,24,fully repaid this bank,2828,557.0,4,single,none,real estate,22,stores,own,1,0,1,yes,skilled employee,male,96,30,1,furniture,1,0,1,0,56.400000000000006
+606,0.0,24,critical,4526,60.0,3,single,none,real estate,74,none,own,1,0,1,yes,mangement self-employed,male,6,30,1,business,1,0,0,0,20.4
+607,70.0,36,repaid,2671,241.0,4,single,co-applicant,other,50,none,for free,1,1,1,yes,skilled employee,female,60,30,0,radio/tv,1,0,1,0,42.0
+608,0.0,18,repaid,2051,0.0,4,single,none,real estate,33,none,own,1,0,1,yes,skilled employee,male,6,6,0,radio/tv,0,0,0,0,6.0
+609,0.0,15,repaid,1300,0.0,4,single,none,other,45,bank,for free,1,0,2,yes,skilled employee,male,96,120,0,car (used),1,0,1,0,110.4
+610,-23.0,12,repaid,741,408.0,4,single,none,building society savings,22,none,own,1,1,1,yes,skilled employee,female,24,0,0,others,0,1,1,0,9.600000000000001
+611,222.0,10,repaid,1240,478.0,1,single,none,other,48,none,for free,1,1,2,yes,unskilled resident,female,96,120,0,car (new),1,0,1,0,110.4
+612,-48.0,21,repaid,3357,3138.0,4,single,none,other,29,bank,own,1,0,1,yes,skilled employee,female,6,6,0,radio/tv,0,0,0,0,6.0
+613,-18.0,24,fully repaid this bank,3632,57.0,1,single,guarantor,other,22,bank,rent,1,0,1,no,skilled employee,female,96,30,0,car (used),1,0,1,0,56.400000000000006
+614,0.0,18,delayed,1808,3.0,4,single,none,real estate,22,none,own,1,1,1,yes,skilled employee,female,6,66,0,furniture,1,0,0,0,42.0
+615,179.0,48,fully repaid,12204,0.0,2,single,none,other,48,bank,own,1,0,1,yes,mangement self-employed,male,6,30,1,business,1,0,0,0,20.4
+616,168.0,60,delayed,9157,0.0,2,single,none,other,27,none,for free,1,0,1,yes,mangement self-employed,male,6,30,0,radio/tv,1,0,0,0,20.4
+617,-37.0,6,critical,3676,5.0,1,single,none,real estate,37,none,rent,3,0,2,yes,skilled employee,male,24,30,0,car (new),1,0,1,0,27.6
+618,94.0,30,repaid,3441,315.0,2,single,co-applicant,other,21,none,rent,1,1,1,yes,skilled employee,female,96,30,0,furniture,1,0,1,0,56.400000000000006
+619,0.0,12,repaid,640,88.0,4,divorced,none,real estate,49,none,own,1,0,1,yes,unskilled resident,male,6,30,0,car (new),1,0,0,0,20.4
+620,137.0,21,critical,3652,49.0,2,single,none,building society savings,27,none,own,2,0,1,yes,skilled employee,male,24,30,0,business,1,0,1,0,27.6
+621,0.0,18,critical,1530,60.0,3,single,none,building society savings,32,bank,own,2,1,1,yes,skilled employee,male,6,30,0,car (new),1,0,0,0,20.4
+622,0.0,48,repaid,3914,0.0,4,divorced,none,real estate,38,bank,own,1,1,1,yes,skilled employee,male,6,30,0,business,1,0,0,0,20.4
+623,-19.0,12,repaid,1858,35.0,4,single,none,other,22,none,rent,1,0,1,yes,skilled employee,female,6,6,0,furniture,0,0,0,0,6.0
+624,-27.0,18,repaid,2600,47.0,4,single,none,other,65,none,for free,2,1,1,yes,skilled employee,male,96,30,0,radio/tv,1,0,1,0,56.400000000000006
+625,0.0,15,repaid,1979,0.0,4,single,none,other,35,none,own,1,0,1,yes,skilled employee,male,6,120,0,radio/tv,1,0,0,0,74.4
+626,926.0,6,repaid,2116,34.0,2,single,none,real estate,41,none,own,1,0,1,yes,skilled employee,male,6,30,1,furniture,1,0,0,0,20.4
+627,73.0,9,fully repaid this bank,1437,473.0,2,single,none,other,29,none,own,1,1,1,yes,skilled employee,male,60,66,0,car (new),1,0,1,0,63.6
+628,0.0,42,critical,4042,806.0,4,single,none,real estate,36,none,own,2,0,1,yes,skilled employee,male,96,30,1,furniture,1,0,1,0,56.400000000000006
+629,0.0,9,repaid,3832,0.0,1,single,none,real estate,64,none,own,1,0,1,yes,unskilled resident,male,96,120,0,education,1,0,1,0,110.4
+630,-19.0,24,repaid,3660,29.0,2,single,none,other,28,none,own,1,0,1,yes,skilled employee,female,96,30,0,radio/tv,1,0,1,0,56.400000000000006
+631,-39.0,18,fully repaid this bank,1553,29.0,4,single,none,other,44,bank,own,1,1,1,yes,skilled employee,male,24,30,0,furniture,1,0,1,0,27.6
+632,85.0,15,repaid,1444,0.0,4,single,none,building society savings,23,none,own,1,0,1,yes,skilled employee,male,6,6,0,radio/tv,0,0,0,0,6.0
+633,0.0,9,repaid,1980,31.0,2,single,co-applicant,other,19,none,rent,2,1,1,yes,skilled employee,female,6,6,0,furniture,0,0,0,0,6.0
+634,51.0,24,repaid,1355,56.0,3,single,none,other,25,none,own,1,1,1,yes,unskilled resident,female,96,6,1,car (new),0,0,1,0,42.00000000000001
+635,0.0,12,repaid,1393,60.0,4,single,none,building society savings,47,bank,own,3,0,2,yes,skilled employee,male,96,66,1,education,1,0,1,0,78.0
+636,0.0,24,repaid,1376,719.0,4,single,none,other,28,none,own,1,0,1,yes,skilled employee,female,6,30,0,radio/tv,1,0,0,0,20.4
+637,0.0,60,delayed,15653,6.0,2,single,none,other,21,none,own,2,0,1,yes,skilled employee,male,96,66,1,radio/tv,1,0,1,0,78.0
+638,0.0,12,repaid,1493,89.0,4,single,none,other,34,none,own,1,0,2,yes,skilled employee,female,24,6,0,radio/tv,0,0,1,0,13.200000000000001
+639,-12.0,42,delayed,4370,1.0,3,single,none,building society savings,26,bank,own,2,1,2,yes,skilled employee,male,6,66,1,radio/tv,1,0,0,0,42.0
+640,-30.0,18,repaid,750,33.0,4,single,none,real estate,27,none,own,1,1,1,yes,unemployed non-resident,female,6,0,0,education,0,1,0,0,2.4000000000000004
+641,120.0,15,repaid,1308,15.0,4,single,none,other,38,none,own,2,0,1,yes,unskilled resident,male,96,120,0,repairs,1,0,1,0,110.4
+642,0.0,15,repaid,4623,413.0,3,single,none,building society savings,40,none,own,1,1,1,yes,mangement self-employed,male,6,30,1,education,1,0,0,0,20.4
+643,0.0,24,critical,1851,27.0,4,married,guarantor,other,33,none,own,2,0,1,yes,skilled employee,male,6,66,1,radio/tv,1,0,0,0,42.0
+644,-36.0,18,critical,1880,25.0,4,married,none,building society savings,32,none,own,2,0,1,yes,mangement self-employed,male,6,66,1,radio/tv,1,0,0,0,42.0
+645,0.0,36,delayed,7980,0.0,4,single,none,other,27,none,rent,2,1,1,yes,skilled employee,male,96,6,1,business,0,0,1,0,42.00000000000001
+646,-36.0,30,fully repaid,4583,99.0,2,divorced,guarantor,real estate,32,none,own,2,0,1,yes,skilled employee,male,6,30,0,furniture,1,0,0,0,20.4
+647,0.0,12,repaid,1386,730.0,2,single,none,building society savings,26,none,own,1,1,1,yes,skilled employee,female,6,30,0,car (new),1,0,0,0,20.4
+648,389.0,24,repaid,947,25.0,4,single,none,other,38,bank,for free,1,1,2,yes,skilled employee,male,60,66,0,car (new),1,0,1,0,63.6
+649,-42.0,12,repaid,684,80.0,4,single,none,other,40,none,rent,1,1,2,yes,unskilled resident,male,96,30,0,education,1,0,1,0,56.400000000000006
+650,-9.0,48,repaid,7476,55.0,4,single,none,other,50,none,for free,1,0,1,yes,mangement self-employed,male,6,66,1,education,1,0,0,0,42.0
+651,180.0,12,repaid,1922,39.0,4,single,none,building society savings,37,none,own,1,1,1,yes,unskilled resident,male,6,30,0,furniture,1,0,0,0,20.4
+652,-35.0,24,repaid,2303,5.0,4,single,co-applicant,real estate,45,none,own,1,1,1,yes,skilled employee,male,6,120,0,car (new),1,0,0,0,74.4
+653,90.0,36,delayed,8086,440.0,2,single,none,other,42,none,own,4,1,1,yes,mangement self-employed,male,96,120,1,car (new),1,0,1,0,110.4
+654,0.0,24,critical,2346,53.0,4,single,none,other,35,none,own,2,0,1,yes,skilled employee,male,24,30,1,car (used),1,0,1,0,27.6
+655,-49.0,14,repaid,3973,16.0,1,single,none,other,22,none,for free,1,0,1,yes,skilled employee,male,96,0,0,car (new),0,1,1,0,38.400000000000006
+656,104.0,12,repaid,888,17.0,4,single,none,other,41,bank,own,1,1,2,yes,unskilled resident,male,60,120,0,car (new),1,0,1,0,96.0
+657,0.0,48,repaid,10222,0.0,4,single,none,other,37,stores,own,1,0,1,yes,skilled employee,male,24,66,1,radio/tv,1,0,1,0,49.2
+658,68.0,30,fully repaid,4221,17.0,2,single,none,other,28,none,own,2,0,1,yes,skilled employee,female,6,30,0,business,1,0,0,0,20.4
+659,30.0,18,critical,6361,81.0,2,single,none,other,41,none,own,1,0,1,yes,skilled employee,male,6,120,1,furniture,1,0,0,0,74.4
+660,925.0,12,repaid,1297,11.0,3,married,none,real estate,23,none,rent,1,0,1,yes,skilled employee,male,96,30,0,radio/tv,1,0,1,0,56.400000000000006
+661,-12.0,12,repaid,900,0.0,4,married,none,other,23,none,own,1,1,1,yes,skilled employee,male,6,30,0,car (new),1,0,0,0,20.4
+662,0.0,21,repaid,2241,18.0,4,single,none,real estate,50,none,own,2,0,1,yes,skilled employee,male,6,120,0,furniture,1,0,0,0,74.4
+663,65.0,6,delayed,1050,48.0,4,single,none,building society savings,35,stores,own,2,0,1,yes,mangement self-employed,male,6,0,1,furniture,0,1,0,0,2.4000000000000004
+664,975.0,6,critical,1047,84.0,2,single,none,building society savings,50,none,own,1,0,1,yes,unskilled resident,female,96,30,0,education,1,0,1,0,56.400000000000006
+665,0.0,24,critical,6314,77.0,4,single,co-applicant,other,27,bank,own,2,0,1,yes,mangement self-employed,male,6,0,1,others,0,1,0,0,2.4000000000000004
+666,15.0,30,fully repaid this bank,3496,6088.0,4,single,none,other,34,stores,own,1,0,2,yes,skilled employee,male,6,30,1,furniture,1,0,0,0,20.4
+667,0.0,48,fully repaid this bank,3609,39.0,1,single,none,real estate,27,stores,own,1,0,1,yes,skilled employee,female,6,30,0,business,1,0,0,0,20.4
+668,-31.0,12,critical,4843,73.0,3,single,co-applicant,building society savings,43,none,rent,2,1,1,yes,skilled employee,male,96,120,1,car (new),1,0,1,0,110.4
+669,276.0,30,critical,3017,60.0,4,single,none,building society savings,47,none,own,1,0,1,yes,skilled employee,male,96,120,0,radio/tv,1,0,1,0,110.4
+670,0.0,24,critical,4139,316.0,3,single,none,building society savings,27,none,own,2,0,1,yes,unskilled resident,male,60,30,1,business,1,0,1,0,42.0
+671,0.0,36,repaid,5742,111.0,2,single,none,other,31,none,own,2,0,1,yes,skilled employee,male,6,66,1,business,1,0,0,0,42.0
+672,0.0,60,repaid,10366,43.0,2,single,none,building society savings,42,none,own,1,0,1,yes,mangement self-employed,male,96,120,1,car (new),1,0,1,0,110.4
+673,0.0,6,critical,2080,597.0,1,married,none,other,24,none,own,1,0,1,yes,skilled employee,male,6,30,0,car (new),1,0,0,0,20.4
+674,0.0,21,delayed,2580,562.0,4,single,none,real estate,41,bank,own,1,1,2,yes,unskilled resident,male,6,6,0,business,0,0,0,0,6.0
+675,0.0,30,critical,4530,19.0,4,single,none,other,26,none,rent,1,0,1,yes,mangement self-employed,female,96,66,1,radio/tv,1,0,1,0,78.0
+676,0.0,24,critical,5150,53.0,4,single,none,other,33,none,own,1,0,1,yes,skilled employee,male,96,120,1,furniture,1,0,1,0,110.4
+677,48.0,72,repaid,5595,486.0,2,married,none,other,24,none,own,1,1,1,yes,skilled employee,male,6,30,0,radio/tv,1,0,0,0,20.4
+678,-11.0,24,repaid,2384,61.0,4,single,none,real estate,64,bank,rent,1,0,1,yes,unskilled resident,male,96,120,0,radio/tv,1,0,1,0,110.4
+679,0.0,18,repaid,1453,22.0,3,single,none,real estate,26,none,own,1,0,1,yes,skilled employee,female,6,6,0,radio/tv,0,0,0,0,6.0
+680,0.0,6,repaid,1538,69.0,1,single,none,other,56,none,own,1,0,1,yes,skilled employee,female,6,6,0,education,0,0,0,0,6.0
+681,0.0,12,repaid,2279,0.0,4,single,none,other,37,none,for free,1,0,1,yes,skilled employee,male,96,30,1,radio/tv,1,0,1,0,56.400000000000006
+682,0.0,15,delayed,1478,48.0,4,married,none,real estate,33,bank,own,2,0,1,yes,skilled employee,male,24,30,0,radio/tv,1,0,1,0,27.6
+683,0.0,24,critical,5103,10.0,3,married,none,other,47,none,for free,3,0,1,yes,skilled employee,male,24,6,1,radio/tv,0,0,1,0,13.200000000000001
+684,42.0,36,delayed,9857,371.0,1,single,none,building society savings,31,none,own,2,0,2,yes,unskilled resident,male,24,66,1,business,1,0,1,0,49.2
+685,0.0,60,repaid,6527,0.0,4,single,none,other,34,none,for free,1,0,2,yes,skilled employee,male,96,30,1,car (new),1,0,1,0,56.400000000000006
+686,992.0,10,critical,1347,0.0,4,single,none,building society savings,27,none,own,2,0,1,yes,skilled employee,male,6,66,1,radio/tv,1,0,0,0,42.0
+687,45.0,36,delayed,2862,253.0,4,single,none,other,30,none,for free,1,0,1,yes,skilled employee,male,24,120,0,car (new),1,0,1,0,81.6
+688,0.0,9,repaid,2753,426.0,3,single,co-applicant,other,35,none,own,1,0,1,yes,skilled employee,male,96,66,1,radio/tv,1,0,1,0,78.0
+689,-16.0,12,repaid,3651,19970.0,1,single,none,building society savings,31,none,own,1,0,2,yes,skilled employee,male,60,30,0,car (new),1,0,1,0,42.0
+690,-14.0,15,critical,975,10.0,2,divorced,none,building society savings,25,none,own,2,0,1,yes,skilled employee,male,24,30,0,furniture,1,0,1,0,27.6
+691,68.0,15,repaid,2631,463.0,3,single,none,real estate,25,none,own,1,0,1,yes,unskilled resident,female,6,30,0,repairs,1,0,0,0,20.4
+692,51.0,24,repaid,2896,481.0,2,single,none,other,29,none,own,1,0,1,yes,skilled employee,male,6,6,0,radio/tv,0,0,0,0,6.0
+693,-15.0,6,critical,4716,0.0,1,single,none,real estate,44,none,own,2,0,2,yes,unskilled resident,male,24,6,0,car (new),0,0,1,0,13.200000000000001
+694,0.0,24,repaid,2284,57.0,4,single,none,other,28,none,own,1,0,1,yes,skilled employee,male,6,66,1,radio/tv,1,0,0,0,42.0
+695,0.0,6,repaid,1236,661.0,2,single,none,building society savings,50,none,rent,1,0,1,yes,skilled employee,male,96,30,0,car (used),1,0,1,0,56.400000000000006
+696,151.0,12,repaid,1103,92.0,4,single,guarantor,real estate,29,none,own,2,0,1,no,skilled employee,male,24,66,0,radio/tv,1,0,1,0,49.2
+697,0.0,12,critical,926,52.0,1,single,none,building society savings,38,none,own,1,0,1,yes,unemployed non-resident,female,6,0,0,car (new),0,1,0,0,2.4000000000000004
+698,0.0,18,critical,1800,85.0,4,single,none,other,24,none,own,2,0,1,yes,skilled employee,male,6,30,0,radio/tv,1,0,0,0,20.4
+699,746.0,15,repaid,1905,77.0,4,single,none,other,40,none,rent,1,0,1,yes,mangement self-employed,male,96,120,1,education,1,0,1,0,110.4
+700,0.0,12,repaid,1123,993.0,4,single,none,other,29,none,rent,1,1,1,yes,unskilled resident,female,96,30,0,furniture,1,0,1,0,56.400000000000006
+701,-7.0,48,critical,6331,38.0,4,single,none,other,46,none,for free,2,1,1,yes,skilled employee,male,96,120,1,car (used),1,0,1,0,110.4
+702,539.0,24,repaid,1377,144.0,4,single,none,other,47,none,for free,1,0,1,yes,skilled employee,female,6,120,1,radio/tv,1,0,0,0,74.4
+703,175.0,30,delayed,2503,283.0,4,single,none,building society savings,41,stores,own,2,0,1,yes,skilled employee,male,6,120,0,business,1,0,0,0,74.4
+704,91.0,27,repaid,2528,97.0,4,single,none,building society savings,32,none,own,1,0,2,yes,skilled employee,female,6,6,1,business,0,0,0,0,6.0
+705,0.0,15,repaid,5324,996.0,1,single,none,other,35,none,for free,1,0,1,yes,skilled employee,female,96,120,0,car (new),1,0,1,0,110.4
+706,8.0,48,repaid,6560,102.0,3,single,none,building society savings,24,none,own,1,1,1,yes,skilled employee,male,6,66,0,car (new),1,0,0,0,42.0
+707,78.0,12,fully repaid,2969,98.0,4,single,none,building society savings,25,none,rent,2,1,1,yes,skilled employee,female,24,6,0,furniture,0,0,1,0,13.200000000000001
+708,12.0,9,repaid,1206,54.0,4,single,none,real estate,25,none,own,1,0,1,yes,skilled employee,female,96,120,0,radio/tv,1,0,1,0,110.4
+709,78.0,9,repaid,2118,4.0,2,single,none,real estate,37,none,own,1,0,2,yes,unskilled resident,male,6,30,0,radio/tv,1,0,0,0,20.4
+710,0.0,18,critical,629,922.0,4,single,none,building society savings,32,bank,own,2,0,1,yes,mangement self-employed,male,60,66,1,radio/tv,1,0,1,0,63.6
+711,-44.0,6,fully repaid this bank,1198,80.0,4,single,none,other,35,none,for free,1,1,1,yes,skilled employee,female,96,120,0,education,1,0,1,0,110.4
+712,0.0,21,repaid,2476,0.0,4,single,none,real estate,46,none,own,1,0,1,yes,mangement self-employed,male,96,120,1,car (used),1,0,1,0,110.4
+713,-43.0,9,critical,1138,35.0,4,single,none,real estate,25,none,own,2,0,1,yes,unskilled resident,male,96,30,0,radio/tv,1,0,1,0,56.400000000000006
+714,190.0,60,repaid,14027,53.0,4,single,none,other,27,none,own,1,1,1,yes,mangement self-employed,male,6,66,1,car (new),1,0,0,0,42.0
+715,0.0,30,critical,7596,0.0,1,single,none,other,63,none,own,2,0,1,yes,skilled employee,male,96,120,0,car (used),1,0,1,0,110.4
+716,0.0,30,critical,3077,0.0,3,single,none,other,40,none,own,2,0,2,yes,skilled employee,male,6,66,1,radio/tv,1,0,0,0,42.0
+717,0.0,18,repaid,1505,0.0,4,single,none,other,32,none,for free,1,0,1,yes,mangement self-employed,male,6,30,1,radio/tv,1,0,0,0,20.4
+718,935.0,24,critical,3148,0.0,3,single,none,other,31,none,own,2,0,1,yes,skilled employee,male,6,30,1,radio/tv,1,0,0,0,20.4
+719,41.0,20,fully repaid,6148,122.0,3,married,none,other,31,bank,own,2,0,1,yes,skilled employee,male,96,120,1,car (used),1,0,1,0,110.4
+720,743.0,9,fully repaid,1337,62.0,4,single,none,other,34,none,own,2,1,1,yes,mangement self-employed,male,6,6,1,radio/tv,0,0,0,0,6.0
+721,78.0,6,fully repaid this bank,433,18319.0,4,single,none,building society savings,24,bank,rent,1,1,2,yes,skilled employee,female,6,6,0,education,0,0,0,0,6.0
+722,-25.0,12,repaid,1228,23.0,4,single,none,real estate,24,none,own,1,1,1,yes,unskilled resident,female,6,30,0,car (new),1,0,0,0,20.4
+723,9.0,9,repaid,790,534.0,4,single,none,real estate,66,none,own,1,0,1,yes,unskilled resident,female,24,30,0,radio/tv,1,0,1,0,27.6
+724,0.0,27,repaid,2570,13.0,3,single,none,real estate,21,none,rent,1,1,1,yes,skilled employee,female,60,30,0,car (new),1,0,1,0,42.0
+725,0.0,6,critical,250,6002.0,2,single,none,real estate,41,bank,own,2,0,1,yes,unskilled resident,female,6,30,0,car (new),1,0,0,0,20.4
+726,0.0,15,critical,1316,999.0,2,married,none,building society savings,47,none,own,2,0,1,yes,unskilled resident,male,6,30,0,radio/tv,1,0,0,0,20.4
+727,-50.0,18,repaid,1882,44.0,4,single,none,other,25,bank,rent,2,1,1,yes,skilled employee,female,96,30,0,radio/tv,1,0,1,0,56.400000000000006
+728,118.0,48,fully repaid this bank,6416,74.0,4,single,none,other,59,none,rent,1,1,1,yes,skilled employee,female,24,120,0,business,1,0,1,0,81.6
+729,261.0,24,critical,1275,19295.0,2,divorced,none,real estate,36,none,own,2,0,1,yes,skilled employee,male,96,30,1,business,1,0,1,0,56.400000000000006
+730,145.0,24,delayed,6403,44.0,1,single,none,other,33,none,own,1,0,1,yes,skilled employee,male,6,6,0,radio/tv,0,0,0,0,6.0
+731,-2.0,24,repaid,1987,43.0,2,single,none,real estate,21,none,rent,1,1,2,yes,unskilled resident,male,96,30,0,radio/tv,1,0,1,0,56.400000000000006
+732,184.0,8,repaid,760,69.0,4,single,guarantor,real estate,44,none,own,1,0,1,yes,unskilled resident,female,6,66,0,radio/tv,1,0,0,0,42.0
+733,0.0,24,repaid,2603,2619.0,2,single,none,other,28,none,rent,1,0,1,yes,skilled employee,female,96,30,1,car (used),1,0,1,0,56.400000000000006
+734,0.0,4,critical,3380,13.0,1,single,none,real estate,37,none,own,1,0,2,yes,skilled employee,female,6,66,0,car (new),1,0,0,0,42.0
+735,17.0,36,fully repaid this bank,3990,0.0,3,single,none,other,29,bank,own,1,0,1,yes,unemployed non-resident,female,6,6,0,others,0,0,0,0,6.0
+736,175.0,24,repaid,11560,1.0,1,single,none,other,23,none,rent,2,1,1,yes,mangement self-employed,female,96,30,0,car (used),1,0,1,0,56.400000000000006
+737,-8.0,18,repaid,4380,157.0,3,single,none,other,35,none,own,1,0,2,yes,unskilled resident,male,96,30,1,car (new),1,0,1,0,56.400000000000006
+738,0.0,6,critical,6761,57.0,1,single,none,other,45,none,own,2,0,2,yes,mangement self-employed,male,60,66,1,car (new),1,0,1,0,63.6
+739,10.0,30,fully repaid,4280,364.0,4,single,none,other,26,none,rent,2,1,1,yes,unskilled resident,female,96,30,0,business,1,0,1,0,56.400000000000006
+740,-20.0,24,fully repaid this bank,2325,436.0,2,single,none,other,32,bank,own,1,0,1,yes,skilled employee,male,60,66,0,car (new),1,0,1,0,63.6
+741,189.0,10,fully repaid this bank,1048,77.0,4,single,none,real estate,23,stores,own,1,0,1,yes,unskilled resident,male,96,30,0,radio/tv,1,0,1,0,56.400000000000006
+742,0.0,21,repaid,3160,0.0,4,single,none,building society savings,41,none,own,1,0,1,yes,skilled employee,male,24,120,1,radio/tv,1,0,1,0,81.6
+743,-9.0,24,fully repaid this bank,2483,940.0,4,single,none,real estate,22,stores,own,1,0,1,yes,skilled employee,male,60,30,1,furniture,1,0,1,0,42.0
+744,-9.0,39,critical,14179,0.0,4,single,none,building society savings,30,none,own,2,0,1,yes,mangement self-employed,male,96,30,1,furniture,1,0,1,0,56.400000000000006
+745,-43.0,13,critical,1797,17.0,3,single,none,building society savings,28,bank,own,2,0,1,yes,unskilled resident,male,6,6,0,business,0,0,0,0,6.0
+746,-32.0,15,repaid,2511,4.0,1,single,none,other,23,none,rent,1,0,1,yes,skilled employee,female,96,0,0,car (new),0,1,1,0,38.400000000000006
+747,-14.0,12,repaid,1274,75.0,3,single,none,real estate,37,none,own,1,1,1,yes,unskilled resident,female,6,6,0,car (new),0,0,0,0,6.0
+748,0.0,21,repaid,5248,0.0,1,single,none,other,26,none,own,1,0,1,yes,skilled employee,male,60,30,0,car (used),1,0,1,0,42.0
+749,0.0,15,repaid,3029,94.0,2,single,none,other,33,none,own,1,0,1,yes,skilled employee,male,6,66,0,car (used),1,0,0,0,42.0
+750,-44.0,6,repaid,428,26.0,2,single,none,building society savings,49,bank,own,1,0,1,yes,skilled employee,female,6,120,1,furniture,1,0,0,0,74.4
+751,-5.0,18,repaid,976,24.0,1,single,none,other,23,none,own,1,1,1,yes,unskilled resident,female,6,6,0,car (new),0,0,0,0,6.0
+752,145.0,12,repaid,841,464.0,2,single,none,real estate,23,none,rent,1,0,1,yes,unskilled resident,female,96,66,0,business,1,0,1,0,78.0
+753,0.0,30,critical,5771,59.0,4,single,none,other,25,none,own,2,0,1,yes,skilled employee,female,6,66,0,radio/tv,1,0,0,0,42.0
+754,0.0,12,delayed,1555,19749.0,4,single,none,other,55,none,for free,2,1,2,yes,skilled employee,male,96,120,0,repairs,1,0,1,0,110.4
+755,-38.0,24,repaid,1285,0.0,4,single,none,other,32,none,rent,1,1,1,yes,skilled employee,female,96,66,0,car (new),1,0,1,0,78.0
+756,641.0,6,critical,1299,40.0,1,single,none,real estate,74,none,own,3,0,2,no,unemployed non-resident,male,6,30,0,car (new),1,0,0,0,20.4
+757,997.0,15,critical,1271,0.0,3,single,none,other,39,none,for free,2,1,1,yes,skilled employee,male,60,30,1,radio/tv,1,0,1,0,42.0
+758,0.0,24,repaid,1393,15.0,2,single,guarantor,real estate,31,none,own,1,0,1,yes,skilled employee,male,6,30,1,car (new),1,0,0,0,20.4
+759,-37.0,12,critical,691,64.0,4,single,none,building society savings,35,none,own,2,1,1,yes,skilled employee,male,24,120,0,car (new),1,0,1,0,81.6
+760,0.0,15,critical,5045,0.0,1,single,none,other,59,none,own,1,0,1,yes,skilled employee,female,96,120,1,car (new),1,0,1,0,110.4
+761,-40.0,18,critical,2124,13.0,4,single,none,real estate,24,none,rent,2,1,1,yes,skilled employee,female,96,30,0,furniture,1,0,1,0,56.400000000000006
+762,-27.0,12,repaid,2214,76.0,4,single,none,building society savings,24,none,own,1,0,1,yes,unskilled resident,male,60,30,0,radio/tv,1,0,1,0,42.0
+763,0.0,21,critical,12680,0.0,4,single,none,other,30,none,for free,1,1,1,yes,mangement self-employed,male,96,120,1,car (new),1,0,1,0,110.4
+764,0.0,24,critical,2463,237.0,4,married,none,building society savings,27,none,own,2,0,1,yes,skilled employee,male,24,66,1,car (new),1,0,1,0,49.2
+765,40.0,12,repaid,1155,80.0,3,married,guarantor,real estate,40,bank,own,2,0,1,yes,unskilled resident,male,60,120,0,radio/tv,1,0,1,0,96.0
+766,-40.0,30,repaid,3108,90.0,2,divorced,none,building society savings,31,none,own,1,1,1,yes,unskilled resident,male,96,6,0,furniture,0,0,1,0,42.00000000000001
+767,0.0,10,repaid,2901,0.0,1,single,none,real estate,31,none,rent,1,0,1,yes,skilled employee,female,96,6,0,car (used),0,0,1,0,42.00000000000001
+768,57.0,12,critical,3617,97.0,1,single,none,other,28,none,rent,3,0,1,yes,skilled employee,male,96,120,1,furniture,1,0,1,0,110.4
+769,0.0,12,critical,1655,91.0,2,single,none,real estate,63,none,own,2,0,1,yes,unskilled resident,male,96,120,1,radio/tv,1,0,1,0,110.4
+770,-31.0,24,repaid,2812,0.0,2,single,none,real estate,26,none,rent,1,0,1,yes,skilled employee,female,96,120,0,car (used),1,0,1,0,110.4
+771,-11.0,36,critical,8065,5.0,3,single,none,other,25,none,own,2,1,1,yes,mangement self-employed,female,6,30,1,education,1,0,0,0,20.4
+772,0.0,21,critical,3275,87.0,1,single,none,other,36,none,own,1,0,1,yes,mangement self-employed,male,96,120,1,car (used),1,0,1,0,110.4
+773,0.0,24,critical,2223,410.0,4,single,none,building society savings,52,bank,own,2,0,1,yes,skilled employee,male,96,120,0,radio/tv,1,0,1,0,110.4
+774,641.0,12,critical,1480,707.0,2,single,none,other,66,bank,for free,3,0,1,yes,unemployed non-resident,male,96,0,0,car (new),0,1,1,0,38.400000000000006
+775,-1.0,24,repaid,1371,0.0,4,single,none,real estate,25,none,rent,1,1,1,yes,skilled employee,female,96,30,0,car (new),1,0,1,0,56.400000000000006
+776,0.0,36,critical,3535,78.0,4,single,none,other,37,none,own,2,0,1,yes,skilled employee,male,96,66,1,car (new),1,0,1,0,78.0
+777,-15.0,18,repaid,3509,21.0,4,single,guarantor,real estate,25,none,own,1,0,1,yes,skilled employee,female,6,66,0,radio/tv,1,0,0,0,42.0
+778,0.0,36,critical,5711,18353.0,4,single,none,other,38,none,own,2,0,1,yes,mangement self-employed,male,6,120,1,car (used),1,0,0,0,74.4
+779,20.0,18,repaid,3872,36.0,2,single,none,other,67,none,own,1,0,1,yes,skilled employee,female,96,0,1,repairs,0,1,1,0,38.400000000000006
+780,35.0,39,critical,4933,55.0,2,single,guarantor,real estate,25,none,own,2,1,1,yes,skilled employee,male,6,66,0,radio/tv,1,0,0,0,42.0
+781,0.0,24,critical,1940,4619.0,4,single,none,real estate,60,none,own,1,0,1,yes,skilled employee,male,96,120,1,car (new),1,0,1,0,110.4
+782,162.0,12,fully repaid,1410,61.0,2,single,none,real estate,31,none,own,1,0,1,yes,unskilled resident,male,6,30,1,others,1,0,0,0,20.4
+783,134.0,12,repaid,836,400.0,4,single,none,building society savings,23,bank,own,1,1,1,yes,unskilled resident,female,6,6,0,car (new),0,0,0,0,6.0
+784,109.0,20,repaid,6468,0.0,1,divorced,none,real estate,60,none,own,1,0,1,yes,mangement self-employed,male,96,0,1,car (used),0,1,1,0,38.400000000000006
+785,43.0,18,repaid,1941,12765.0,4,single,none,building society savings,35,none,own,1,0,1,yes,unskilled resident,male,6,30,1,business,1,0,0,0,20.4
+786,0.0,22,repaid,2675,554.0,3,single,none,other,40,none,own,1,0,1,yes,skilled employee,male,96,120,0,radio/tv,1,0,1,0,110.4
+787,0.0,48,critical,2751,0.0,4,single,none,other,38,none,own,2,0,2,yes,skilled employee,male,24,120,1,car (used),1,0,1,0,81.6
+788,142.0,48,delayed,6224,79.0,4,single,none,other,50,none,for free,1,1,1,yes,skilled employee,male,96,120,0,education,1,0,1,0,110.4
+789,-18.0,40,critical,5998,76.0,4,single,none,other,27,bank,own,1,1,1,yes,skilled employee,male,24,30,1,education,1,0,1,0,27.6
+790,103.0,21,repaid,1188,86.0,2,single,none,building society savings,39,none,own,1,1,2,yes,skilled employee,female,96,120,0,business,1,0,1,0,110.4
+791,0.0,24,repaid,6313,0.0,3,single,none,other,41,none,own,1,0,2,yes,mangement self-employed,male,96,120,1,car (used),1,0,1,0,110.4
+792,0.0,6,critical,1221,0.0,1,married,none,building society savings,27,none,own,2,0,1,yes,skilled employee,male,6,30,0,furniture,1,0,0,0,20.4
+793,512.0,24,repaid,2892,61.0,3,divorced,none,other,51,none,for free,1,0,1,yes,skilled employee,male,96,120,0,furniture,1,0,1,0,110.4
+794,0.0,24,repaid,3062,880.0,4,single,none,other,32,none,rent,1,0,1,yes,skilled employee,male,24,120,1,furniture,1,0,1,0,81.6
+795,0.0,9,repaid,2301,279.0,2,single,none,building society savings,22,none,rent,1,0,1,yes,skilled employee,female,96,6,0,furniture,0,0,1,0,42.00000000000001
+796,-36.0,18,repaid,7511,0.0,1,single,none,building society savings,51,none,for free,1,1,2,yes,skilled employee,male,96,66,1,car (used),1,0,1,0,78.0
+797,0.0,12,critical,1258,4.0,2,single,none,building society savings,22,none,rent,2,0,1,yes,unskilled resident,female,96,6,0,furniture,0,0,1,0,42.00000000000001
+798,0.0,24,delayed,717,0.0,4,married,none,other,54,none,own,2,0,1,yes,skilled employee,male,96,120,1,car (new),1,0,1,0,110.4
+799,98.0,9,repaid,1549,0.0,4,single,none,real estate,35,none,own,1,0,1,yes,unemployed non-resident,male,6,6,0,car (new),0,0,0,0,6.0
+800,0.0,24,critical,1597,23.0,4,single,none,other,54,none,for free,2,0,2,yes,skilled employee,male,96,120,0,education,1,0,1,0,110.4
+801,32.0,18,critical,1795,79.0,3,single,guarantor,real estate,48,bank,rent,2,0,1,yes,unskilled resident,female,96,120,1,radio/tv,1,0,1,0,110.4
+802,-23.0,20,critical,4272,30.0,1,single,none,building society savings,24,none,own,2,0,1,yes,skilled employee,female,96,120,0,furniture,1,0,1,0,110.4
+803,0.0,12,critical,976,0.0,4,single,none,other,35,none,own,2,0,1,yes,skilled employee,male,96,120,0,radio/tv,1,0,1,0,110.4
+804,3.0,12,repaid,7472,0.0,1,single,none,real estate,24,none,rent,1,0,1,yes,unemployed non-resident,female,6,0,0,car (new),0,1,0,0,2.4000000000000004
+805,-4.0,36,repaid,9271,40.0,2,single,none,other,24,none,own,1,1,1,yes,skilled employee,male,6,66,1,car (new),1,0,0,0,42.0
+806,99.0,6,repaid,590,14.0,3,married,none,real estate,26,none,own,1,0,1,no,unskilled resident,male,24,0,0,radio/tv,0,1,1,0,9.600000000000001
+807,0.0,12,critical,930,0.0,4,single,none,real estate,65,none,own,4,0,1,yes,skilled employee,male,96,120,0,radio/tv,1,0,1,0,110.4
+808,188.0,42,fully repaid this bank,9283,31.0,1,single,none,other,55,bank,for free,1,0,1,yes,mangement self-employed,male,6,0,1,car (used),0,1,0,0,2.4000000000000004
+809,119.0,15,fully repaid,1778,87.0,2,single,none,real estate,26,none,rent,2,1,1,yes,unemployed non-resident,female,6,6,0,car (new),0,0,0,0,6.0
+810,119.0,8,repaid,907,6.0,3,married,none,real estate,26,none,own,1,0,1,yes,skilled employee,male,6,6,1,business,0,0,0,0,6.0
+811,109.0,6,repaid,484,94.0,3,married,guarantor,real estate,28,bank,own,1,0,1,yes,unskilled resident,male,24,66,0,radio/tv,1,0,1,0,49.2
+812,-13.0,36,critical,9629,34.0,4,single,none,other,24,none,own,2,1,1,yes,skilled employee,male,96,66,1,car (used),1,0,1,0,78.0
+813,-16.0,48,repaid,3051,29.0,3,single,none,other,54,none,own,1,1,1,yes,skilled employee,male,96,30,0,others,1,0,1,0,56.400000000000006
+814,-9.0,48,repaid,3931,39.0,4,single,none,other,46,none,for free,1,1,2,yes,skilled employee,male,60,30,0,car (new),1,0,1,0,42.0
+815,192.0,36,delayed,7432,89.0,2,single,none,building society savings,54,none,rent,1,0,1,yes,skilled employee,female,6,30,0,car (new),1,0,0,0,20.4
+816,0.0,6,repaid,1338,851.0,1,divorced,none,real estate,62,none,own,1,0,1,yes,skilled employee,male,96,30,0,others,1,0,1,0,56.400000000000006
+817,0.0,6,critical,1554,45.0,1,single,none,other,24,none,rent,2,0,1,yes,skilled employee,female,6,66,1,radio/tv,1,0,0,0,42.0
+818,-44.0,36,repaid,15857,87.0,2,divorced,co-applicant,other,43,none,own,1,0,1,yes,mangement self-employed,male,24,0,0,others,0,1,1,0,9.600000000000001
+819,-8.0,18,repaid,1345,25.0,4,married,none,real estate,26,bank,own,1,1,1,yes,skilled employee,male,24,30,0,radio/tv,1,0,1,0,27.6
+820,0.0,12,repaid,1101,65.0,3,married,none,real estate,27,none,own,2,0,1,yes,skilled employee,male,6,30,1,car (new),1,0,0,0,20.4
+821,999.0,12,repaid,3016,64.0,3,married,none,other,24,none,own,1,0,1,yes,skilled employee,male,6,30,0,radio/tv,1,0,0,0,20.4
+822,-27.0,36,repaid,2712,26.0,2,single,none,building society savings,41,bank,own,1,1,2,yes,skilled employee,male,6,120,0,furniture,1,0,0,0,74.4
+823,-19.0,8,critical,731,51.0,4,single,none,real estate,47,none,own,2,0,1,yes,unskilled resident,male,96,120,0,car (new),1,0,1,0,110.4
+824,0.0,18,critical,3780,37.0,3,divorced,none,other,35,none,own,2,0,1,yes,mangement self-employed,male,6,6,1,furniture,0,0,0,0,6.0
+825,-36.0,21,critical,1602,0.0,4,married,none,other,30,none,own,2,0,1,yes,skilled employee,male,24,120,1,car (new),1,0,1,0,81.6
+826,-32.0,18,critical,3966,5.0,1,single,none,real estate,33,bank,rent,3,1,1,yes,skilled employee,female,96,120,1,car (new),1,0,1,0,110.4
+827,0.0,18,fully repaid,4165,75.0,2,single,none,other,36,stores,own,2,1,2,yes,skilled employee,male,6,30,0,business,1,0,0,0,20.4
+828,-30.0,36,repaid,8335,0.0,3,single,none,other,47,none,for free,1,1,1,yes,skilled employee,male,96,120,0,car (used),1,0,1,0,110.4
+829,10.0,48,delayed,6681,0.0,4,single,none,other,38,none,for free,1,0,2,yes,skilled employee,male,96,30,1,business,1,0,1,0,56.400000000000006
+830,0.0,24,delayed,2375,980.0,4,single,none,other,44,none,own,2,0,2,yes,skilled employee,male,6,30,1,business,1,0,0,0,20.4
+831,-17.0,18,repaid,1216,47.0,4,single,none,other,23,none,rent,1,1,1,yes,skilled employee,female,24,6,1,car (new),0,0,1,0,13.200000000000001
+832,-43.0,45,fully repaid,11816,67.0,2,single,none,other,29,none,rent,2,1,1,yes,skilled employee,male,96,120,0,business,1,0,1,0,110.4
+833,16.0,24,repaid,5084,0.0,2,single,none,other,42,none,own,1,0,1,yes,skilled employee,female,96,120,1,radio/tv,1,0,1,0,110.4
+834,630.0,15,repaid,2327,38.0,2,single,none,real estate,25,none,own,1,1,1,yes,unskilled resident,female,60,6,0,radio/tv,0,0,1,0,27.6
+835,-39.0,12,fully repaid,1082,0.0,4,single,none,other,48,bank,own,2,1,1,yes,skilled employee,male,96,30,0,car (new),1,0,1,0,56.400000000000006
+836,0.0,12,repaid,886,0.0,4,single,none,other,21,none,own,1,0,1,yes,skilled employee,female,6,30,0,radio/tv,1,0,0,0,20.4
+837,0.0,4,repaid,601,84.0,1,single,none,real estate,23,none,rent,1,0,2,yes,unskilled resident,female,24,6,0,furniture,0,0,1,0,13.200000000000001
+838,-39.0,24,critical,2957,11.0,4,single,none,building society savings,63,none,own,2,0,1,yes,skilled employee,male,60,120,1,car (used),1,0,1,0,96.0
+839,0.0,24,critical,2611,12.0,4,married,co-applicant,real estate,46,none,own,2,0,1,yes,skilled employee,male,24,120,0,radio/tv,1,0,1,0,81.6
+840,-47.0,36,repaid,5179,73.0,4,single,none,building society savings,29,none,own,1,1,1,yes,skilled employee,male,6,66,0,furniture,1,0,0,0,42.0
+841,0.0,21,delayed,2993,18.0,3,single,none,real estate,28,stores,own,2,0,1,yes,unskilled resident,male,6,30,0,car (used),1,0,0,0,20.4
+842,0.0,18,repaid,1943,85.0,4,single,none,real estate,23,none,own,1,1,1,yes,skilled employee,female,96,6,0,repairs,0,0,1,0,42.00000000000001
+843,0.0,24,fully repaid this bank,1559,80.0,4,single,none,other,50,bank,own,1,0,1,yes,skilled employee,male,96,66,1,business,1,0,1,0,78.0
+844,0.0,18,repaid,3422,80.0,4,single,none,building society savings,47,bank,own,3,0,2,yes,skilled employee,male,96,120,1,furniture,1,0,1,0,110.4
+845,127.0,21,repaid,3976,0.0,2,single,none,other,35,none,own,1,0,1,yes,skilled employee,male,24,66,1,furniture,1,0,1,0,49.2
+846,0.0,18,repaid,6761,0.0,2,single,none,other,68,none,rent,2,1,1,yes,skilled employee,male,96,30,0,car (new),1,0,1,0,56.400000000000006
+847,0.0,24,repaid,1249,47.0,4,married,none,real estate,28,none,own,1,0,1,yes,skilled employee,male,6,6,0,car (new),0,0,0,0,6.0
+848,-49.0,9,repaid,1364,13.0,3,single,none,real estate,59,none,own,1,0,1,yes,skilled employee,male,96,66,0,radio/tv,1,0,1,0,78.0
+849,-7.0,12,repaid,709,3.0,4,single,none,real estate,57,stores,own,1,1,1,yes,unskilled resident,male,96,120,0,radio/tv,1,0,1,0,110.4
+850,-18.0,20,critical,2235,4.0,4,married,guarantor,building society savings,33,bank,rent,2,1,1,no,skilled employee,male,6,30,0,car (new),1,0,0,0,20.4
+851,0.0,24,critical,4042,0.0,3,single,none,building society savings,43,none,own,2,0,1,yes,skilled employee,male,60,66,1,car (used),1,0,1,0,63.6
+852,0.0,15,critical,1471,67.0,4,single,none,other,35,none,for free,2,0,1,yes,skilled employee,male,96,30,1,radio/tv,1,0,1,0,56.400000000000006
+853,-45.0,18,fully repaid this bank,1442,83.0,4,single,none,other,32,none,for free,2,1,2,yes,unskilled resident,male,60,30,0,car (new),1,0,1,0,42.0
+854,0.0,36,delayed,10875,21.0,2,single,none,other,45,none,own,2,0,2,yes,skilled employee,male,6,120,1,car (new),1,0,0,0,74.4
+855,0.0,24,repaid,1474,233.0,4,married,none,real estate,33,none,own,1,0,1,yes,skilled employee,male,24,6,1,car (new),0,0,1,0,13.200000000000001
+856,0.0,10,repaid,894,0.0,4,single,none,building society savings,40,none,own,1,0,1,yes,skilled employee,female,24,66,1,others,1,0,1,0,49.2
+857,0.0,15,critical,3343,3.0,4,single,none,other,28,none,for free,1,0,1,yes,skilled employee,male,6,30,1,furniture,1,0,0,0,20.4
+858,-46.0,15,repaid,3959,36.0,3,single,none,building society savings,29,none,own,1,1,1,yes,skilled employee,female,6,30,1,car (new),1,0,0,0,20.4
+859,0.0,9,repaid,3577,303.0,1,single,guarantor,real estate,26,none,rent,1,0,2,no,skilled employee,male,6,30,0,car (new),1,0,0,0,20.4
+860,0.0,24,critical,5804,19972.0,4,single,none,real estate,27,none,own,2,0,1,yes,skilled employee,male,6,30,0,car (used),1,0,0,0,20.4
+861,0.0,18,delayed,2169,76.0,4,married,none,other,28,none,own,1,1,1,yes,skilled employee,male,6,30,1,business,1,0,0,0,20.4
+862,-46.0,24,repaid,2439,78.0,4,single,none,real estate,35,none,own,1,1,1,yes,skilled employee,female,96,6,1,radio/tv,0,0,1,0,42.00000000000001
+863,0.0,27,critical,4526,11007.0,4,single,none,real estate,32,stores,own,2,0,2,yes,unskilled resident,male,6,6,1,furniture,0,0,0,0,6.0
+864,0.0,10,repaid,2210,2.0,2,single,none,real estate,25,bank,rent,1,1,1,yes,unskilled resident,male,6,30,0,furniture,1,0,0,0,20.4
+865,0.0,15,repaid,2221,513.0,2,single,none,other,20,none,rent,1,0,1,yes,skilled employee,female,96,30,0,furniture,1,0,1,0,56.400000000000006
+866,-10.0,18,repaid,2389,61.0,4,single,none,other,27,stores,own,1,0,1,yes,skilled employee,female,6,6,0,radio/tv,0,0,0,0,6.0
+867,0.0,12,critical,3331,78.0,2,single,none,building society savings,42,stores,own,1,0,1,yes,skilled employee,male,96,120,0,furniture,1,0,1,0,110.4
+868,0.0,36,repaid,7409,0.0,3,single,none,building society savings,37,none,own,2,0,1,yes,skilled employee,male,6,120,0,business,1,0,0,0,74.4
+869,-41.0,12,repaid,652,73.0,4,single,none,building society savings,24,none,rent,1,0,1,yes,skilled employee,female,96,120,0,furniture,1,0,1,0,110.4
+870,0.0,36,delayed,7678,620.0,2,single,none,other,40,none,own,2,0,1,yes,skilled employee,female,96,66,1,furniture,1,0,1,0,78.0
+871,309.0,6,critical,1343,93.0,1,single,none,real estate,46,none,own,2,0,2,no,skilled employee,male,96,120,0,car (new),1,0,1,0,110.4
+872,-44.0,24,critical,1382,287.0,4,single,none,real estate,26,none,own,2,0,1,yes,skilled employee,male,6,66,1,business,1,0,0,0,42.0
+873,0.0,15,repaid,874,0.0,4,single,none,real estate,24,none,own,1,0,1,yes,skilled employee,female,6,6,0,others,0,0,0,0,6.0
+874,-40.0,12,repaid,3590,98.0,2,single,co-applicant,building society savings,29,none,own,1,0,2,yes,unskilled resident,male,6,30,0,furniture,1,0,0,0,20.4
+875,18.0,11,critical,1322,18185.0,4,single,none,other,40,none,own,2,0,1,yes,skilled employee,female,60,30,0,car (new),1,0,1,0,42.0
+876,-37.0,18,fully repaid this bank,1940,1.0,3,single,co-applicant,other,36,bank,for free,1,0,1,yes,mangement self-employed,male,96,6,1,radio/tv,0,0,1,0,42.00000000000001
+877,0.0,36,repaid,3595,61.0,4,single,none,other,28,none,own,1,0,1,yes,skilled employee,male,6,120,0,radio/tv,1,0,0,0,74.4
+878,-43.0,9,repaid,1422,31.0,3,single,none,other,27,none,for free,1,1,1,yes,mangement self-employed,male,6,6,1,car (new),0,0,0,0,6.0
+879,0.0,30,critical,6742,0.0,2,single,none,building society savings,36,none,own,2,0,1,yes,skilled employee,male,24,30,0,radio/tv,1,0,1,0,27.6
+880,0.0,24,repaid,7814,56.0,3,single,none,other,38,none,own,1,0,1,yes,mangement self-employed,male,24,66,1,car (used),1,0,1,0,49.2
+881,0.0,24,repaid,9277,0.0,2,divorced,none,other,48,none,for free,1,0,1,yes,skilled employee,male,96,30,1,car (used),1,0,1,0,56.400000000000006
+882,103.0,30,critical,2181,0.0,4,single,none,real estate,36,none,own,2,0,1,yes,skilled employee,male,96,66,0,car (new),1,0,1,0,78.0
+883,0.0,18,critical,1098,46.0,4,single,none,other,65,none,own,2,0,1,yes,unemployed non-resident,female,96,0,0,radio/tv,0,1,1,0,38.400000000000006
+884,42.0,24,repaid,4057,86.0,3,divorced,none,other,43,none,own,1,1,1,yes,skilled employee,male,24,66,1,furniture,1,0,1,0,49.2
+885,-48.0,12,repaid,795,53.0,4,single,none,building society savings,53,none,own,1,1,1,yes,skilled employee,female,96,6,0,education,0,0,1,0,42.00000000000001
+886,27.0,24,critical,2825,0.0,4,single,none,other,34,none,own,2,0,2,yes,skilled employee,male,24,66,1,business,1,0,1,0,49.2
+887,5.0,48,repaid,15672,19.0,2,single,none,other,23,none,own,1,1,1,yes,skilled employee,male,6,30,1,business,1,0,0,0,20.4
+888,0.0,36,critical,6614,90.0,4,single,none,other,34,none,own,2,0,1,yes,mangement self-employed,male,96,120,1,car (new),1,0,1,0,110.4
+889,0.0,28,fully repaid this bank,7824,0.0,3,single,guarantor,real estate,40,bank,rent,2,0,2,yes,skilled employee,male,96,6,1,car (used),0,0,1,0,42.00000000000001
+890,-26.0,27,critical,2442,12.0,4,single,none,other,43,stores,own,4,0,2,yes,mangement self-employed,male,96,66,1,business,1,0,1,0,78.0
+891,0.0,15,critical,1829,75.0,4,single,none,other,46,none,own,2,0,1,yes,skilled employee,male,96,120,1,radio/tv,1,0,1,0,110.4
+892,-6.0,12,critical,2171,5.0,4,single,none,building society savings,38,bank,own,2,0,1,no,unskilled resident,male,96,30,0,car (new),1,0,1,0,56.400000000000006
+893,31.0,36,critical,5800,63.0,3,single,none,other,34,none,own,2,0,1,yes,skilled employee,male,60,30,1,car (used),1,0,1,0,42.0
+894,0.0,18,critical,1169,0.0,4,single,none,building society savings,29,none,own,2,0,1,yes,skilled employee,male,24,30,1,radio/tv,1,0,1,0,27.6
+895,0.0,36,delayed,8947,0.0,3,single,none,other,31,stores,own,1,0,2,yes,mangement self-employed,male,6,66,1,car (used),1,0,0,0,42.0
+896,-46.0,21,repaid,2606,11.0,4,single,none,building society savings,28,none,rent,1,0,1,yes,mangement self-employed,female,96,6,1,radio/tv,0,0,1,0,42.00000000000001
+897,0.0,12,critical,1592,18574.0,3,single,none,building society savings,35,none,own,1,0,1,no,skilled employee,female,6,66,0,furniture,1,0,0,0,42.0
+898,0.0,15,repaid,2186,0.0,1,single,none,real estate,33,bank,rent,1,0,1,yes,unskilled resident,female,60,66,0,furniture,1,0,1,0,63.6
+899,-41.0,18,repaid,4153,29.0,2,single,co-applicant,other,42,none,own,1,1,1,yes,skilled employee,male,60,30,0,furniture,1,0,1,0,42.0
+900,-10.0,16,critical,2625,20.0,2,single,guarantor,building society savings,43,bank,rent,1,1,1,yes,skilled employee,male,96,120,1,car (new),1,0,1,0,110.4
+901,0.0,20,critical,3485,0.0,2,divorced,none,real estate,44,none,own,2,0,1,yes,skilled employee,male,96,6,1,car (new),0,0,1,0,42.00000000000001
+902,0.0,36,critical,10477,0.0,2,single,none,other,42,none,for free,2,0,1,yes,skilled employee,male,96,120,0,car (used),1,0,1,0,110.4
+903,0.0,15,repaid,1386,0.0,4,married,none,real estate,40,none,rent,1,0,1,yes,skilled employee,male,6,30,1,radio/tv,1,0,0,0,20.4
+904,0.0,24,repaid,1278,75.0,4,single,none,real estate,36,none,own,1,0,1,yes,mangement self-employed,male,6,120,1,radio/tv,1,0,0,0,74.4
+905,-4.0,12,repaid,1107,28.0,2,single,none,real estate,20,none,rent,1,0,2,yes,mangement self-employed,male,6,30,1,radio/tv,1,0,0,0,20.4
+906,-42.0,21,repaid,3763,0.0,2,single,co-applicant,real estate,24,none,own,1,0,1,no,unskilled resident,male,6,66,0,car (new),1,0,0,0,42.0
+907,61.0,36,repaid,3711,0.0,2,married,none,other,27,none,own,1,0,1,yes,skilled employee,male,6,30,0,education,1,0,0,0,20.4
+908,0.0,15,delayed,3594,64.0,1,single,none,building society savings,46,none,own,2,0,1,yes,unskilled resident,female,6,6,0,car (used),0,0,0,0,6.0
+909,104.0,9,repaid,3195,0.0,1,single,none,real estate,33,none,own,1,0,1,yes,unskilled resident,female,6,30,0,car (new),1,0,0,0,20.4
+910,0.0,36,delayed,4454,13.0,4,single,none,real estate,34,none,own,2,0,1,yes,skilled employee,female,96,30,0,radio/tv,1,0,1,0,56.400000000000006
+911,144.0,24,critical,4736,50.0,2,single,none,other,25,bank,own,1,1,1,yes,unskilled resident,female,96,0,0,furniture,0,1,1,0,38.400000000000006
+912,50.0,30,repaid,2991,0.0,2,single,none,other,25,none,own,1,0,1,yes,skilled employee,female,96,120,0,radio/tv,1,0,1,0,110.4
+913,0.0,11,repaid,2142,10664.0,1,divorced,none,real estate,28,none,own,1,0,1,yes,skilled employee,male,6,120,1,business,1,0,0,0,74.4
+914,-4.0,24,fully repaid this bank,3161,12.0,4,single,none,building society savings,31,none,rent,1,1,1,yes,skilled employee,male,6,30,1,business,1,0,0,0,20.4
+915,135.0,48,fully repaid,18424,74.0,1,single,none,building society savings,32,bank,own,1,1,1,no,mangement self-employed,female,6,30,1,others,1,0,0,0,20.4
+916,0.0,10,repaid,2848,231.0,1,single,co-applicant,real estate,32,none,own,1,0,2,yes,skilled employee,male,6,30,0,car (used),1,0,0,0,20.4
+917,-41.0,6,repaid,14896,92.0,1,single,none,other,68,bank,own,1,1,1,yes,mangement self-employed,male,96,120,1,car (new),1,0,1,0,110.4
+918,-21.0,24,repaid,2359,402.0,1,divorced,none,building society savings,33,none,own,1,1,1,yes,skilled employee,male,6,0,0,furniture,0,1,0,0,2.4000000000000004
+919,-41.0,24,repaid,3345,3.0,4,single,none,building society savings,39,none,rent,1,1,1,yes,mangement self-employed,male,6,120,1,furniture,1,0,0,0,74.4
+920,0.0,18,critical,1817,27.0,4,single,none,other,28,none,own,2,0,1,yes,skilled employee,female,6,30,0,furniture,1,0,0,0,20.4
+921,0.0,48,delayed,12749,553.0,4,single,none,other,37,none,own,1,0,1,yes,mangement self-employed,male,6,66,1,radio/tv,1,0,0,0,42.0
+922,-11.0,9,repaid,1366,45.0,3,single,none,building society savings,22,none,rent,1,1,1,yes,skilled employee,female,96,6,0,radio/tv,0,0,1,0,42.00000000000001
+923,24.0,12,repaid,2002,59.0,3,single,none,building society savings,30,none,rent,1,0,2,yes,skilled employee,male,96,66,1,car (new),1,0,1,0,78.0
+924,-6.0,24,fully repaid this bank,6872,32.0,2,divorced,none,building society savings,55,bank,own,1,1,1,yes,skilled employee,male,6,6,1,furniture,0,0,0,0,6.0
+925,-1.0,12,fully repaid this bank,697,24.0,4,single,none,other,46,bank,own,2,1,1,yes,skilled employee,male,6,6,1,car (new),0,0,0,0,6.0
+926,-46.0,18,critical,1049,28.0,4,single,none,building society savings,21,none,rent,1,0,1,yes,skilled employee,female,96,6,0,furniture,0,0,1,0,42.00000000000001
+927,-3.0,48,repaid,10297,45.0,4,single,none,other,39,stores,for free,3,1,2,yes,skilled employee,male,96,66,1,car (used),1,0,1,0,78.0
+928,0.0,30,repaid,1867,0.0,4,single,none,other,58,none,own,1,0,1,yes,skilled employee,male,96,120,1,radio/tv,1,0,1,0,110.4
+929,-14.0,12,delayed,1344,84.0,4,single,none,real estate,43,none,own,2,0,2,yes,unskilled resident,male,6,30,0,car (new),1,0,0,0,20.4
+930,-13.0,24,repaid,1747,83.0,4,single,co-applicant,building society savings,24,none,own,1,0,1,no,unskilled resident,male,6,6,0,furniture,0,0,0,0,6.0
+931,61.0,9,repaid,1670,60.0,4,single,none,other,22,none,own,1,1,1,yes,skilled employee,female,6,6,1,radio/tv,0,0,0,0,6.0
+932,0.0,9,critical,1224,17.0,3,single,none,real estate,30,none,own,2,0,1,yes,skilled employee,male,6,30,0,car (new),1,0,0,0,20.4
+933,0.0,12,critical,522,632.0,4,single,none,building society savings,42,none,own,2,0,2,yes,skilled employee,male,96,120,1,radio/tv,1,0,1,0,110.4
+934,-49.0,12,repaid,1498,26.0,4,single,none,other,23,bank,own,1,0,1,yes,skilled employee,female,6,30,0,radio/tv,1,0,0,0,20.4
+935,73.0,30,delayed,1919,353.0,4,single,none,other,30,stores,own,2,1,1,yes,mangement self-employed,male,24,6,0,radio/tv,0,0,1,0,13.200000000000001
+936,778.0,9,repaid,745,14.0,3,single,none,real estate,28,none,own,1,1,1,yes,unskilled resident,female,6,30,0,radio/tv,1,0,0,0,20.4
+937,5.0,6,repaid,2063,13.0,4,married,none,other,30,none,rent,1,0,1,yes,mangement self-employed,male,24,6,1,radio/tv,0,0,1,0,13.200000000000001
+938,196.0,60,repaid,6288,46.0,4,single,none,other,42,none,for free,1,1,1,yes,skilled employee,male,60,30,0,education,1,0,1,0,42.0
+939,0.0,24,critical,6842,0.0,2,single,none,building society savings,46,none,own,2,0,2,yes,mangement self-employed,male,96,30,1,car (used),1,0,1,0,56.400000000000006
+940,0.0,12,repaid,3527,0.0,2,single,none,building society savings,45,none,own,1,0,2,yes,mangement self-employed,male,24,6,1,car (new),0,0,1,0,13.200000000000001
+941,0.0,10,repaid,1546,31.0,3,single,none,real estate,31,none,own,1,0,2,no,unskilled resident,male,6,30,0,car (new),1,0,0,0,20.4
+942,0.0,24,repaid,929,0.0,4,single,none,other,31,stores,own,1,0,1,yes,skilled employee,male,6,66,1,furniture,1,0,0,0,42.0
+943,0.0,4,critical,1455,34.0,2,single,none,real estate,42,none,own,3,0,2,yes,unskilled resident,male,6,66,0,car (new),1,0,0,0,42.0
+944,-9.0,15,repaid,1845,17.0,4,single,guarantor,building society savings,46,none,rent,1,0,1,yes,skilled employee,female,6,6,0,furniture,0,0,0,0,6.0
+945,151.0,48,fully repaid,8358,579.0,1,single,none,other,30,none,own,2,0,1,yes,skilled employee,female,6,6,0,car (new),0,0,0,0,6.0
+946,-34.0,24,fully repaid this bank,3349,783.0,4,single,none,other,30,none,for free,1,1,2,yes,skilled employee,male,96,6,1,furniture,0,0,1,0,42.00000000000001
+947,0.0,12,repaid,2859,0.0,4,single,none,other,38,none,own,1,0,1,yes,mangement self-employed,male,96,0,1,car (new),0,1,1,0,38.400000000000006
+948,0.0,18,repaid,1533,63.0,4,married,co-applicant,building society savings,43,none,own,1,1,2,yes,unskilled resident,male,6,6,0,furniture,0,0,0,0,6.0
+949,0.0,24,repaid,3621,475.0,2,single,none,other,31,none,own,2,1,1,yes,skilled employee,male,96,120,0,radio/tv,1,0,1,0,110.4
+950,130.0,18,critical,3590,61.0,3,married,none,other,40,none,own,3,0,2,yes,unemployed non-resident,male,24,0,1,business,0,1,1,0,9.600000000000001
+951,-28.0,36,delayed,2145,70.0,2,single,none,other,24,none,own,2,1,1,yes,skilled employee,male,6,66,1,business,1,0,0,0,42.0
+952,124.0,24,repaid,4113,595.0,3,single,none,other,28,none,rent,1,1,1,yes,skilled employee,female,96,0,0,car (used),0,1,1,0,38.400000000000006
+953,0.0,36,repaid,10974,84.0,4,single,none,other,26,none,own,2,1,1,yes,mangement self-employed,female,6,0,1,furniture,0,1,0,0,2.4000000000000004
+954,-47.0,12,repaid,1893,73.0,4,single,guarantor,building society savings,29,none,own,1,0,1,yes,skilled employee,female,96,30,1,car (new),1,0,1,0,56.400000000000006
+955,-21.0,24,critical,1231,1675.0,4,single,none,building society savings,57,none,rent,2,0,1,yes,mangement self-employed,female,96,120,1,radio/tv,1,0,1,0,110.4
+956,713.0,30,critical,3656,0.0,4,single,none,building society savings,49,stores,own,2,0,1,yes,unskilled resident,male,96,120,0,radio/tv,1,0,1,0,110.4
+957,177.0,9,critical,1154,82.0,2,single,none,real estate,37,none,own,3,0,1,yes,unskilled resident,male,96,120,0,radio/tv,1,0,1,0,110.4
+958,-47.0,28,repaid,4006,89.0,3,single,none,other,45,none,own,1,1,1,yes,unskilled resident,male,6,30,0,car (new),1,0,0,0,20.4
+959,175.0,24,repaid,3069,172.0,4,single,none,other,30,none,for free,1,0,1,yes,skilled employee,male,96,120,0,furniture,1,0,1,0,110.4
+960,0.0,6,critical,1740,4.0,2,married,none,real estate,30,none,rent,2,0,1,yes,skilled employee,male,6,120,0,radio/tv,1,0,0,0,74.4
+961,21.0,21,delayed,2353,56.0,1,divorced,none,building society savings,47,none,own,2,0,1,yes,skilled employee,male,96,30,0,car (new),1,0,1,0,56.400000000000006
+962,0.0,15,repaid,3556,0.0,3,single,none,other,29,none,own,1,0,1,yes,skilled employee,male,6,30,0,car (new),1,0,0,0,20.4
+963,0.0,24,repaid,2397,674.0,3,single,none,other,35,bank,own,2,1,1,yes,skilled employee,male,6,120,1,radio/tv,1,0,0,0,74.4
+964,73.0,6,repaid,454,15.0,3,married,none,building society savings,22,none,own,1,0,1,yes,unskilled resident,male,6,6,0,repairs,0,0,0,0,6.0
+965,42.0,30,repaid,1715,0.0,4,single,none,other,26,none,own,1,0,1,yes,skilled employee,female,6,30,0,radio/tv,1,0,0,0,20.4
+966,188.0,27,critical,2520,691.0,4,single,none,building society savings,23,none,own,2,1,1,yes,unskilled resident,male,6,30,0,radio/tv,1,0,0,0,20.4
+967,0.0,15,repaid,3568,25.0,4,single,none,other,54,bank,rent,1,0,1,yes,mangement self-employed,female,6,66,1,radio/tv,1,0,0,0,42.0
+968,0.0,42,repaid,7166,0.0,2,married,none,building society savings,29,none,rent,1,0,1,yes,skilled employee,male,96,66,1,radio/tv,1,0,1,0,78.0
+969,-28.0,11,critical,3939,56.0,1,single,none,real estate,40,none,own,2,0,2,yes,unskilled resident,male,6,30,0,car (new),1,0,0,0,20.4
+970,112.0,15,repaid,1514,421.0,4,single,guarantor,real estate,22,none,own,1,0,1,yes,skilled employee,male,6,30,0,repairs,1,0,0,0,20.4
+971,0.0,24,repaid,7393,98.0,1,single,none,building society savings,43,none,own,1,0,2,yes,unskilled resident,male,96,30,0,car (new),1,0,1,0,56.400000000000006
+972,-49.0,24,fully repaid this bank,1193,19.0,1,single,co-applicant,other,29,none,rent,2,1,1,yes,unemployed non-resident,female,96,0,0,car (new),0,1,1,0,38.400000000000006
+973,-44.0,60,repaid,7297,23.0,4,single,co-applicant,other,36,none,rent,1,1,1,yes,skilled employee,male,96,120,0,business,1,0,1,0,110.4
+974,0.0,30,critical,2831,47.0,4,single,none,other,33,none,own,1,0,1,yes,skilled employee,female,6,30,1,radio/tv,1,0,0,0,20.4
+975,661.0,24,repaid,1258,572.0,3,single,none,other,57,none,own,1,0,1,yes,unskilled resident,female,60,30,0,radio/tv,1,0,1,0,42.0
+976,121.0,6,repaid,753,89.0,2,single,guarantor,real estate,64,none,own,1,0,1,yes,skilled employee,female,24,30,0,radio/tv,1,0,1,0,27.6
+977,161.0,18,delayed,2427,0.0,4,single,none,building society savings,42,none,own,2,0,1,yes,skilled employee,male,6,120,0,business,1,0,0,0,74.4
+978,0.0,24,delayed,2538,42.0,4,single,none,other,47,none,own,2,1,2,yes,unskilled resident,male,96,120,0,car (new),1,0,1,0,110.4
+979,118.0,15,fully repaid this bank,1264,208.0,2,married,none,building society savings,25,none,rent,1,1,1,yes,skilled employee,male,6,30,0,car (new),1,0,0,0,20.4
+980,185.0,30,critical,8386,84.0,2,single,none,building society savings,49,none,own,1,1,1,yes,skilled employee,male,6,66,0,furniture,1,0,0,0,42.0
+981,0.0,48,repaid,4844,14.0,3,single,none,other,33,bank,rent,1,1,1,yes,mangement self-employed,male,6,0,1,business,0,1,0,0,2.4000000000000004
+982,431.0,21,repaid,2923,239.0,1,single,none,other,28,bank,own,1,0,1,yes,mangement self-employed,female,6,30,1,car (new),1,0,0,0,20.4
+983,-33.0,36,repaid,8229,85.0,2,single,none,building society savings,26,none,own,1,1,2,yes,skilled employee,male,6,30,0,car (used),1,0,0,0,20.4
+984,0.0,24,critical,2028,5.0,2,single,none,building society savings,30,none,own,2,0,1,yes,unskilled resident,male,6,30,0,furniture,1,0,0,0,20.4
+985,-44.0,15,critical,1433,91.0,4,single,none,building society savings,25,none,rent,2,0,1,yes,skilled employee,female,24,30,0,furniture,1,0,1,0,27.6
+986,739.0,42,fully repaid,6289,42.0,2,divorced,none,building society savings,33,none,own,2,0,1,yes,skilled employee,male,6,6,0,business,0,0,0,0,6.0
+987,0.0,13,repaid,1409,447.0,2,single,none,real estate,64,none,own,1,0,1,yes,skilled employee,female,96,0,0,radio/tv,0,1,1,0,38.400000000000006
+988,-12.0,24,repaid,6579,21.0,4,single,none,other,29,none,for free,1,0,1,yes,mangement self-employed,male,6,0,1,car (used),0,1,0,0,2.4000000000000004
+989,97.0,24,critical,1743,40.0,4,single,none,building society savings,48,none,own,2,0,1,yes,unskilled resident,male,6,120,0,radio/tv,1,0,0,0,74.4
+990,0.0,12,critical,3565,0.0,2,single,none,building society savings,37,none,own,2,0,2,yes,unskilled resident,male,6,6,0,education,0,0,0,0,6.0
+991,0.0,15,fully repaid this bank,1569,455.0,4,single,none,other,34,bank,own,1,0,2,yes,unskilled resident,male,96,120,0,radio/tv,1,0,1,0,110.4
+992,-37.0,18,repaid,1936,0.0,2,married,none,other,23,none,rent,2,0,1,yes,unskilled resident,male,96,66,0,radio/tv,1,0,1,0,78.0
+993,-18.0,36,repaid,3959,75.0,4,single,none,building society savings,30,none,own,1,0,1,yes,mangement self-employed,male,24,0,1,furniture,0,1,1,0,9.600000000000001
+994,0.0,12,repaid,2390,0.0,4,single,none,other,50,none,own,1,0,1,yes,skilled employee,male,24,120,1,car (new),1,0,1,0,81.6
+995,0.0,12,repaid,1736,48.0,3,single,none,real estate,31,none,own,1,0,1,yes,unskilled resident,female,96,30,0,furniture,1,0,1,0,56.400000000000006
+996,-30.0,30,repaid,3857,20.0,4,divorced,none,building society savings,40,none,own,1,0,1,yes,mangement self-employed,male,60,30,1,car (used),1,0,1,0,42.0
+997,0.0,12,repaid,804,44.0,4,single,none,other,38,none,own,1,0,1,yes,skilled employee,male,96,120,0,radio/tv,1,0,1,0,110.4
+998,-18.0,45,repaid,1845,31.0,4,single,none,other,23,none,for free,1,1,1,yes,skilled employee,male,96,30,1,radio/tv,1,0,1,0,56.400000000000006
+999,194.0,45,critical,4576,128.0,3,single,none,other,27,none,own,1,0,1,yes,skilled employee,male,96,0,0,car (used),0,1,1,0,38.400000000000006
